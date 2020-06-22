@@ -2,17 +2,17 @@ Ashwini Kumar is currently working as AVP - Apps at [InCred](https://www.incred.
 
 ## Learnings via Blogs
 
-| No | Title                                                                                                                                                                            | Publication             | Published Date |
-|----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
-| 1  | [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                    | ProAndroidDev at Medium | Aug 2, 2019    |
-| 2  | [Making Hotstar Zip — Faster Startup](https://blog.hotstar.com/making-hotstar-zip-app-load-times-9d7ac7435257)                                                                   | Hotstar at Medium       | Feb 20, 2019   |
-| 3  | [Room with RxJava and Dagger](https://medium.com/mindorks/room-with-rxjava-and-dagger-2722f4420651)                                                                              | Mindorks at Medium      | Jul 11, 2018   |
-| 4  | [Introducing Picture-in-Picture Mode on Hotstar Android App](https://blog.hotstar.com/introducing-picture-in-picture-mode-on-hotstar-android-app-9f59ac5f822)                    | Hotstar at Medium       | Jul 6, 2018    |
-| 5  | [Pagination using Paging Library with RxJava and Dagger](https://medium.com/mindorks/pagination-using-paging-library-with-rxjava-and-dagger-d9d05dbd8eac)                        | Mindorks at Medium      | Jun 15, 2018   |
-| 6  | [App : Release Gently — Feature Gates & A:B](https://blog.hotstar.com/app-release-gently-feature-gates-a-b-f43ba0e314d0)                                                         | Hotstar at Medium       | Jun 11, 2018   |
-| 7  | [Migration from MVP to MVVM using Android Architecture Components](https://medium.com/mindorks/migration-from-mvp-to-mvvm-using-android-architecture-components-4bc058a1f73c)    | Mindorks at Medium      | Jun 7, 2018    |
-| 8  | [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a) | Mindorks at Medium      | Aug 16, 2017   |
-| 9  | [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                      | AndroidPub at Medium    | Jun 7, 2017    |
+| Title                                                                                                                                                                            | Publication             | Published Date |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
+| [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                    | ProAndroidDev at Medium | Aug 2, 2019    |
+| [Making Hotstar Zip — Faster Startup](https://blog.hotstar.com/making-hotstar-zip-app-load-times-9d7ac7435257)                                                                   | Hotstar at Medium       | Feb 20, 2019   |
+| [Room with RxJava and Dagger](https://medium.com/mindorks/room-with-rxjava-and-dagger-2722f4420651)                                                                              | Mindorks at Medium      | Jul 11, 2018   |
+| [Introducing Picture-in-Picture Mode on Hotstar Android App](https://blog.hotstar.com/introducing-picture-in-picture-mode-on-hotstar-android-app-9f59ac5f822)                    | Hotstar at Medium       | Jul 6, 2018    |
+| [Pagination using Paging Library with RxJava and Dagger](https://medium.com/mindorks/pagination-using-paging-library-with-rxjava-and-dagger-d9d05dbd8eac)                        | Mindorks at Medium      | Jun 15, 2018   |
+| [App : Release Gently — Feature Gates & A:B](https://blog.hotstar.com/app-release-gently-feature-gates-a-b-f43ba0e314d0)                                                         | Hotstar at Medium       | Jun 11, 2018   |
+| [Migration from MVP to MVVM using Android Architecture Components](https://medium.com/mindorks/migration-from-mvp-to-mvvm-using-android-architecture-components-4bc058a1f73c)    | Mindorks at Medium      | Jun 7, 2018    |
+| [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a) | Mindorks at Medium      | Aug 16, 2017   |
+| [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                      | AndroidPub at Medium    | Jun 7, 2017    |
 
 ## Open-source
 
