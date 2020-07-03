@@ -4,6 +4,7 @@
 
 | Title                                                                                                                                                                            | Publication             | Published Date |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
+| [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                                      | InCred at Medium        | Jul 02, 2020   |
 | [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                    | ProAndroidDev at Medium | Aug 2, 2019    |
 | [Making Hotstar Zip — Faster Startup](https://blog.hotstar.com/making-hotstar-zip-app-load-times-9d7ac7435257)                                                                   | Hotstar at Medium       | Feb 20, 2019   |
 | [Room with RxJava and Dagger](https://medium.com/mindorks/room-with-rxjava-and-dagger-2722f4420651)                                                                              | Mindorks at Medium      | Jul 11, 2018   |
