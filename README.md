@@ -1,4 +1,4 @@
-![Profile photo](https://s.gravatar.com/avatar/44c6ab3bdc1025342c9a72806c4318eb?s=80) Ashwini Kumar is currently working as AVP - Apps at [InCred](https://www.incred.com/). He has graduated in Computer Science from [NIT Trichy](https://www.nitt.edu/). Throughtout his career, he has developed android applications in many organisations encompassing several domains viz. Entertainment([Disney+Hotstar](https://www.hotstar.com/)), Healthcare and eCommerce([1mg](https://www.1mg.com/)), HCM Fusion Apps([Oracle](www.oracle.com)), and Agro & Construction Tech([Trimble](https://www.trimble.com/)).  With Android tech improving every year, he is always in the look out for better performance. Having worked on many apps built for India scale, he believes that every code should be written thinking of the future which can handle millions of users without involving any outage. When he is not writing code, he can be found reading articles and open-source repositories to gain more ideas that can be shared across the team or playing board games with friends like Secret Hitler, Codenames :). #PerfMatters #ImproveEveryDay
+![Profile photo](https://s.gravatar.com/avatar/44c6ab3bdc1025342c9a72806c4318eb?s=80) Ashwini Kumar is currently working as AVP - Apps at [InCred](https://www.incred.com/). He has graduated in Computer Science from [NIT Trichy](https://www.nitt.edu/). Throughtout his career, he has developed android applications in many organisations encompassing several domains viz. Entertainment([Disney+Hotstar](https://www.hotstar.com/)), Healthcare and eCommerce([1mg](https://www.1mg.com/)), HCM Fusion Apps([Oracle](www.oracle.com)), and Agro & Construction Tech([Trimble](https://www.trimble.com/)).  With Android tech improving every year, he is always in the look out for better performance. Having worked on many apps built for India scale, he believes that every code should be written thinking of the future which can handle millions of users without involving any outage. When he is not writing code, he can be found reading articles and open-source repositories to gain more ideas that can be shared across the team or playing board games with friends like Secret Hitler, Codenames :). #PerfMatters #ImproveEveryDay #BetterTogether
 
 ## Learnings via Blogs
 
@@ -15,10 +15,12 @@
 | [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a) | Mindorks at Medium      | Aug 16, 2017   |
 | [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                      | AndroidPub at Medium    | Jun 7, 2017    |
 
-## Open-source
+## Open-source and more
 
 * Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
-* [TvFlix](https://github.com/ashwini009/TvFlix) - App stating the latest android achitecture using Android Jetpack Libraries, purely written in Kotlin
+* Featured on [Firebase developer story](https://www.youtube.com/watch?v=LZUlPUsmd_w)
+* Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
+* [TvFlix](https://github.com/ashwini009/TvFlix) - App stating the latest android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
 
 ## Awesome android apps
 
