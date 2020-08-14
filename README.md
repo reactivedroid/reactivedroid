@@ -20,7 +20,7 @@
 * Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
 * Featured on [Firebase developer story](https://www.youtube.com/watch?v=LZUlPUsmd_w)
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
-* [TvFlix](https://github.com/ashwini009/TvFlix) - App stating the latest android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
+* [TvFlix](https://github.com/reactivedroid/TvFlix) - App stating the latest android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
 
 ## Awesome android apps
 
@@ -31,6 +31,6 @@
 ## Social
 
 * [Twitter: @reactivedroid](https://twitter.com/reactivedroid)
-* [GitHub: @ashwini009](https://github.com/ashwini009)
+* [GitHub: @ashwini009](https://github.com/reactivedroid)
 * [Medium: @reactivedroid](https://medium.com/@reactivedroid)
 * [LinkedIn](https://www.linkedin.com/in/ashwini-kumar-64916197/)
