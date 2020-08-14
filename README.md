@@ -31,6 +31,6 @@
 ## Social
 
 * [Twitter: @reactivedroid](https://twitter.com/reactivedroid)
-* [GitHub: @ashwini009](https://github.com/reactivedroid)
+* [GitHub: @reactivedroid](https://github.com/reactivedroid)
 * [Medium: @reactivedroid](https://medium.com/@reactivedroid)
 * [LinkedIn](https://www.linkedin.com/in/ashwini-kumar-64916197/)
