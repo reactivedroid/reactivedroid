@@ -28,9 +28,9 @@
 * [Disney+Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
 * [1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
 
-## Social
+## Social network
 
-* [Twitter: @reactivedroid](https://twitter.com/reactivedroid)
-* [GitHub: @reactivedroid](https://github.com/reactivedroid)
-* [Medium: @reactivedroid](https://medium.com/@reactivedroid)
-* [LinkedIn](https://www.linkedin.com/in/ashwini-kumar-64916197/)
+* [Twitter](https://twitter.com/reactivedroid)
+* [GitHub](https://github.com/reactivedroid)
+* [Medium](https://medium.com/@reactivedroid)
+* [LinkedIn](https://www.linkedin.com/in/reactivedroid/)
