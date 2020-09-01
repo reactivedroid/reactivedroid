@@ -4,6 +4,7 @@
 
 | Title                                                                                                                                                                            | Publication             | Published Date |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
+| [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)                                                  | InCred at Medium        | Sep 01, 2020   |
 | [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                                      | InCred at Medium        | Jul 02, 2020   |
 | [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                    | ProAndroidDev at Medium | Aug 2, 2019    |
 | [Making Hotstar Zip — Faster Startup](https://blog.hotstar.com/making-hotstar-zip-app-load-times-9d7ac7435257)                                                                   | Hotstar at Medium       | Feb 20, 2019   |
