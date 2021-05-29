@@ -4,7 +4,7 @@
 
 | Title                                                                                                                                                                               | Publication             | Published Date |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
-| [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://proandroiddev.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53) | ProAndroidDev at Medium | Feb 06, 2021   |
+| [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53) | Firebase Developers at Medium | Feb 06, 2021   |
 | [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)                                                     | InCred at Medium        | Sep 01, 2020   |
 | [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                                         | InCred at Medium        | Jul 02, 2020   |
 | [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                       | ProAndroidDev at Medium | Aug 2, 2019    |
@@ -19,6 +19,7 @@
 
 ## Open-source and more
 
+* [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc) showcased on the official [Google's developers library](https://devlibrary.withgoogle.com/products/firebase).  
 * Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
 * Featured on [Firebase developer story](https://www.youtube.com/watch?v=LZUlPUsmd_w)
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
