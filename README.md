@@ -19,6 +19,7 @@
 
 ## Open-source and more
 
+* [Author of Developers Library at Google](https://devlibrary.withgoogle.com/authors/reactivedroid)
 * [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc) showcased on the official [Google's developers library](https://devlibrary.withgoogle.com/products/firebase).  
 * Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
 * Featured on [Firebase developer story](https://www.youtube.com/watch?v=LZUlPUsmd_w)
