@@ -17,8 +17,9 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 | [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)    | Mindorks at Medium      | Aug 16, 2017   |
 | [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                         | AndroidPub at Medium    | Jun 7, 2017    |
 
-## Open-source and more
+## Featured arena
 
+* [Enabling SSO on native apps at Mobile Premier League via ForgeRock](https://www.forgerock.com/blog/mobile-premier-league-implements-forgerock-support-growth-85-million-customers-worldwide-and-0)
 * [Author of Developers Library at Google](https://devlibrary.withgoogle.com/authors/reactivedroid)
 * [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc) showcased on the official [Google's developers library](https://devlibrary.withgoogle.com/products/firebase).  
 * Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
