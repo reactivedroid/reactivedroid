@@ -19,10 +19,11 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 
 ## Featured arena
 
+* Speaker on Google For Startups Program conducted at 91springboard for [Supercharge your app with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) conducted on [Jan 12, 2022](https://www.meetup.com/91springboardDelhi/events/283115481/)
 * [Enabling SSO on native apps at Mobile Premier League via ForgeRock](https://www.forgerock.com/blog/mobile-premier-league-implements-forgerock-support-growth-85-million-customers-worldwide-and-0)
 * [Author of Developers Library at Google](https://devlibrary.withgoogle.com/authors/reactivedroid)
 * [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc) showcased on the official [Google's developers library](https://devlibrary.withgoogle.com/products/firebase).  
-* Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/ashwini009/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
+* Speaker on [App : Release Gently — Feature Gates & A:B](https://speakerdeck.com/reactivedroid/b) on [Jun 30, 2018](https://www.meetup.com/blrdroid/events/251716069/)
 * Featured on [Firebase developer story](https://www.youtube.com/watch?v=LZUlPUsmd_w)
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
 * [TvFlix](https://github.com/reactivedroid/TvFlix) - App stating the latest android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
