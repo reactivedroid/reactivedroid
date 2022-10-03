@@ -1,6 +1,6 @@
-Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini_kumar), is currently working as Director of Engineering at [PayU Finance](https://www.payufin.in/). He has graduated in Computer Science from [NIT Trichy](https://www.nitt.edu/). Throughout his career, he has developed/architected applications in many organisations encompassing several domains viz. Gaming([Mobile Premier League](https://www.mpl.live/)), FinTech([InCred](https://www.incred.com/)),  Entertainment([Disney+Hotstar](https://www.hotstar.com/)), Healthcare and eCommerce([1mg](https://www.1mg.com/)), HCM Fusion Apps([Oracle](www.oracle.com)), and Agro & Construction Tech([Trimble](https://www.trimble.com/)).  With technology improving every day, he is always in the look out for better performance. Having worked on many apps built for India scale, he believes that every code should be written thinking of the future which can handle millions of users without involving any outage. When he is not writing code, he can be found reading articles and open-source repositories to gain more ideas that can be shared across the team or playing board games with friends like Secret Hitler, Codenames :). #PerfMatters #ImproveEveryDay #BetterTogether
+Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini-kumar) and a [Mentor at Scaler](https://www.scaler.com/), is currently working as Director of Software Engineering for apps at [PayU Finance](https://www.payufin.in/). He has graduated in Computer Science from [NIT Trichy](https://www.nitt.edu/). Throughout his career, he has developed/architected applications in many organisations encompassing several domains viz. Gaming([Mobile Premier League](https://www.mpl.live/)), FinTech([InCred](https://www.incred.com/)),  Entertainment([Disney+Hotstar](https://www.hotstar.com/)), Healthcare and eCommerce([1mg](https://www.1mg.com/)), HCM Fusion Apps([Oracle](www.oracle.com)), and Agro & Construction Tech([Trimble](https://www.trimble.com/)).  With technology improving every day, he is always in the look out for better performance. Having worked on many apps built for India scale, he believes that every code should be written thinking of the future which can handle millions of users without involving any outage. When he is not writing code, he can be found reading articles and open-source repositories to gain more ideas that can be shared across the team or playing board games with friends like Secret Hitler, Codenames :). #PerfMatters #BetterTogether
 
-## Written content
+## Blogs :memo:
 
 | Title                                                                                                                                                                               | Publication             | Published Date |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
@@ -17,7 +17,7 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 | [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)    | Mindorks at Medium      | Aug 16, 2017   |
 | [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                         | AndroidPub at Medium    | Jun 7, 2017    |
 
-## Featured arena
+## Featured arena :star:
 
 * Speaker on [Google for Startups](https://startup.google.com/) program hosted by [91springboard](https://www.91springboard.com/) for [Architecting android app for scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale) conducted on [Apr 01, 2022](https://www.meetup.com/91springboardDelhi/events/284796996/)
 * Speaker on [Google for Startups](https://startup.google.com/) program hosted by [91springboard](https://www.91springboard.com/) for [Supercharge your app with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) conducted on [Jan 12, 2022](https://www.meetup.com/91springboardDelhi/events/283115481/)
@@ -29,15 +29,16 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
 * [TvFlix](https://github.com/reactivedroid/TvFlix) - App stating the latest android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
 
-## Apps built for India scale
+## Apps built for India scale :earth_asia:
 
 * [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay)
+* [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 * [MPL](https://www.mpl.live/)
 * [InCred](https://play.google.com/store/apps/details?id=com.incred.customer)
 * [Disney+Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
 * [1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
 
-## Social network
+## Social network :handshake:
 
 * [Twitter](https://twitter.com/reactivedroid)
 * [GitHub](https://github.com/reactivedroid)
