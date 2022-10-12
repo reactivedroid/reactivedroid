@@ -4,6 +4,7 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 
 | Title                                                                                                                                                                               | Publication             | Published Date |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
+| [Dynamic Environment Switching on Android](https://techblog.lazypay.in/dynamic-environment-switching-on-android-2048567e59c7) | LazyPay Engineering at Medium | Oct 12, 2022   |
 | [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53) | Firebase Developers at Medium | Feb 06, 2021   |
 | [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)                                                     | InCred at Medium        | Sep 01, 2020   |
 | [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                                         | InCred at Medium        | Jul 02, 2020   |
