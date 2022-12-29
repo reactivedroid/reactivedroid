@@ -42,6 +42,7 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 ## Social network :handshake:
 
 * [Twitter](https://twitter.com/reactivedroid)
+* <a rel="me" href="https://hachyderm.io/@reactivedroid">Mastodon</a>
 * [GitHub](https://github.com/reactivedroid)
 * [Medium](https://medium.com/@reactivedroid)
 * [LinkedIn](https://www.linkedin.com/in/reactivedroid/)
