@@ -4,6 +4,7 @@ Ashwini Kumar, a [Google Developer Expert - Firebase](https://developers.google.
 
 | Title                                                                                                                                                                               | Publication             | Published Date |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
+| [Faster media delivery to optimize app performance](https://techblog.lazypay.in/faster-media-delivery-to-optimize-app-performance-e09ce96c9757) | LazyPay Engineering at Medium | Mar 28, 2023   |
 | [Dynamic Environment Switching on Android](https://techblog.lazypay.in/dynamic-environment-switching-on-android-2048567e59c7) | LazyPay Engineering at Medium | Oct 12, 2022   |
 | [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53) | Firebase Developers at Medium | Feb 06, 2021   |
 | [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)                                                     | InCred at Medium        | Sep 01, 2020   |
