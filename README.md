@@ -5,7 +5,7 @@ When I'm not immersed in code, you can find me exploring articles and open-sourc
 
 ## Blogs 📝
 
-> Absolutely! In addition to Medium, I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.
+> In addition to Medium, I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.
 
 | Title                                                                                                                                                                               | Publication             | Published Date |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
