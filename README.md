@@ -45,6 +45,14 @@ When I'm not immersed in code, you can find me exploring articles and open-sourc
 * [Disney+Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
 * [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
 
+## Certifications 🎓
+
+* [Certified Kubernetes Application Developer(CKAD)](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)
+   * Issued By: [The Linux Foundation](https://www.linuxfoundation.org/)
+   * Date Earned: February 2024
+   * Credential ID: LF-kgrr1tfvcy
+   * Skills: Container Orchestration, Kubernetes Architecture, Application Deployment, Cloud Native Applications, Docker
+
 ## Connect with me 🤝
 
 * [X](https://twitter.com/reactivedroid)
