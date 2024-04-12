@@ -47,11 +47,17 @@ When I'm not immersed in code, you can find me exploring articles and open-sourc
 
 ## Certifications 🎓
 
-* [Certified Kubernetes Application Developer(CKAD)](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)
+* [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0b64e3b5-4948-4a6b-bb08-c88cbfc06adf)
    * Issued By: [The Linux Foundation](https://www.linuxfoundation.org/)
-   * Date Earned: February 2024
+   * Date Earned: April, 2024
+   * Credential ID: LF-gx6qhb2kpf
+   * Skills: System Administration, Logging & Troubleshooting, Security Policies, Services, Scheduling, Site Reliability Engineering
+     
+* [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)
+   * Issued By: [The Linux Foundation](https://www.linuxfoundation.org/)
+   * Date Earned: February, 2024
    * Credential ID: LF-kgrr1tfvcy
-   * Skills: Container Orchestration, Kubernetes Architecture, Application Deployment, Cloud Native Applications, Docker
+   * Skills: Container Orchestration, Kubernetes Architecture, Application Deployment, Cloud Native Applications, Docker, Helm
 
 ## Connect with me 🤝
 
