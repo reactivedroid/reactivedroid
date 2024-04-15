@@ -3,26 +3,20 @@ I'm currently working as the Director of Engineering at [PayU Credit](https://ww
 
 When I'm not immersed in code, you can find me exploring articles and open-source repositories to gather fresh ideas that can be shared with the team. I also enjoy spending time with friends, engaging in board games like Secret Hitler and Codenames 🥷
 
-## [Blogs](https://blogs.reactivedroid.com/) 📝
+## [Blogs](https://blogs.reactivedroid.com/) 📓
 
-> **In addition to Medium, I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.**
+> **In addition to [Medium](https://medium.com/@reactivedroid), I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.**
 
-| Title                                                                                                                                                                               | Publication             | Published Date |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|:--------------:|
-| [Faster media delivery to optimize app performance](https://techblog.lazypay.in/faster-media-delivery-to-optimize-app-performance-e09ce96c9757) | LazyPay Engineering at Medium | Mar 28, 2023   |
-| [Dynamic Environment Switching on Android](https://techblog.lazypay.in/dynamic-environment-switching-on-android-2048567e59c7) | LazyPay Engineering at Medium | Oct 12, 2022   |
-| [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53) | Firebase Developers at Medium | Feb 06, 2021   |
-| [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)                                                     | InCred at Medium        | Sep 01, 2020   |
-| [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                                         | InCred at Medium        | Jul 02, 2020   |
-| [Kotlin Everywhere. Coroutines, Tests, Robots and much more…](https://proandroiddev.com/kotlin-everywhere-coroutines-tests-robots-and-much-more-b02030206cc9)                       | ProAndroidDev at Medium | Aug 2, 2019    |
-| [Making Hotstar Zip — Faster Startup](https://blog.hotstar.com/making-hotstar-zip-app-load-times-9d7ac7435257)                                                                      | Hotstar at Medium       | Feb 20, 2019   |
-| [Room with RxJava and Dagger](https://medium.com/mindorks/room-with-rxjava-and-dagger-2722f4420651)                                                                                 | Mindorks at Medium      | Jul 11, 2018   |
-| [Introducing Picture-in-Picture Mode on Hotstar Android App](https://blog.hotstar.com/introducing-picture-in-picture-mode-on-hotstar-android-app-9f59ac5f822)                       | Hotstar at Medium       | Jul 6, 2018    |
-| [Pagination using Paging Library with RxJava and Dagger](https://medium.com/mindorks/pagination-using-paging-library-with-rxjava-and-dagger-d9d05dbd8eac)                           | Mindorks at Medium      | Jun 15, 2018   |
-| [App : Release Gently — Feature Gates & A:B](https://blog.hotstar.com/app-release-gently-feature-gates-a-b-f43ba0e314d0)                                                            | Hotstar at Medium       | Jun 11, 2018   |
-| [Migration from MVP to MVVM using Android Architecture Components](https://medium.com/mindorks/migration-from-mvp-to-mvvm-using-android-architecture-components-4bc058a1f73c)       | Mindorks at Medium      | Jun 7, 2018    |
-| [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)    | Mindorks at Medium      | Aug 16, 2017   |
-| [RIP TransactionTooLargeException](https://android.jlelse.eu/rip-transactiontoolargeexception-7256cf14cd69)                                                                         | AndroidPub at Medium    | Jun 7, 2017    |
+### Recent musings 📝
+
+* [From Experience to Infrastructure Engineering: A Tale of Kubernetes Certifications](https://blogs.reactivedroid.com/from-experience-to-infrastructure-engineering-a-tale-of-kubernetes-certifications)
+* [Faster media delivery to optimize app performance](https://techblog.lazypay.in/faster-media-delivery-to-optimize-app-performance-e09ce96c9757)
+* [Dynamic Environment Switching on Android](https://techblog.lazypay.in/dynamic-environment-switching-on-android-2048567e59c7)
+* [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53)
+* [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)
+* [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                            
+
+Interested in delving deeper? Explore my collection of [blogs](https://blogs.reactivedroid.com/) for a comprehensive look at all the content I've published to date. 🏃‍♂️
 
 ## Featured arena 💫
 
