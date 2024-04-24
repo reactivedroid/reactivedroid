@@ -10,11 +10,11 @@ When I'm not immersed in code, you can find me exploring articles and open-sourc
 ### Recent musings 📝
 
 * [From Experience to Infrastructure Engineering: A Tale of Kubernetes Certifications](https://blogs.reactivedroid.com/from-experience-to-infrastructure-engineering-a-tale-of-kubernetes-certifications)
-* [Faster media delivery to optimize app performance](https://techblog.lazypay.in/faster-media-delivery-to-optimize-app-performance-e09ce96c9757)
-* [Dynamic Environment Switching on Android](https://techblog.lazypay.in/dynamic-environment-switching-on-android-2048567e59c7)
-* [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://medium.com/firebase-developers/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53)
-* [Enhanced selfie experience via MLKit](https://medium.com/incred-technopedia/enhanced-selfie-experience-via-mlkit-ffc52017045b)
-* [Uninstall tracking via BigQuery and Airflow](https://medium.com/incred-tech-blog/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                            
+* [Faster media delivery to optimize app performance](https://blogs.reactivedroid.com/faster-media-delivery-to-optimize-app-performance-e09ce96c9757)
+* [Dynamic Environment Switching on Android](https://blogs.reactivedroid.com/dynamic-environment-switching-on-android-2048567e59c7)
+* [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://blogs.reactivedroid.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53)
+* [Enhanced selfie experience via MLKit](https://blogs.reactivedroid.com/enhanced-selfie-experience-via-mlkit-ffc52017045b)
+* [Uninstall tracking via BigQuery and Airflow](https://blogs.reactivedroid.com/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                            
 
 Interested in delving deeper? Explore my collection of [blogs](https://blogs.reactivedroid.com/) for a comprehensive look at all the content I've published to date. 🏃‍♂️
 
