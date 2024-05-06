@@ -1,5 +1,5 @@
 ## <img src="https://github.com/reactivedroid.png" width="100px;" height="100px;" alt="Ashwini Kumar" /> Hi 👋,  I'm Ashwini Kumar
-An engineer currently working as Director of Engineering at [PayU Credit](https://www.lazypay.in/), where I spearhead the development of mobile and web apps for scale. With over a decade of experience, I specialize in crafting systems designed for performance and scale.
+An engineer currently working as Director of Engineering at [PayU Credit](https://www.lazypay.in/), where I spearhead the development of mobile and web apps. With over a decade of experience, I specialize in crafting systems designed for performance and scale.
 
 As a [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini-kumar), I leverage cutting-edge technologies to drive innovation. Additionally, I find immense satisfaction in my role as a Mentor at [Scaler](https://www.scaler.com/), guiding and nurturing aspiring talents.
 
