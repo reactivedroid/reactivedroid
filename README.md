@@ -15,6 +15,7 @@ When not immersed in code, I explore articles and open-source repositories for f
 
 ### Recent musings 📝
 
+* [Hard-earned Learnings From Navigating Google Play App Rejections](https://blogs.reactivedroid.com/hard-earned-learnings-from-navigating-google-play-app-rejections) 
 * [From Experience to Infrastructure Engineering: A Tale of Kubernetes Certifications](https://blogs.reactivedroid.com/from-experience-to-infrastructure-engineering-a-tale-of-kubernetes-certifications)
 * [Faster media delivery to optimize app performance](https://blogs.reactivedroid.com/faster-media-delivery-to-optimize-app-performance-e09ce96c9757)
 * [Dynamic Environment Switching on Android](https://blogs.reactivedroid.com/dynamic-environment-switching-on-android-2048567e59c7)
