@@ -1,19 +1,31 @@
-## <img src="https://github.com/reactivedroid.png" width="100px;" height="100px;" alt="Ashwini Kumar" /> Hi 👋,  I'm Ashwini Kumar
-An engineer currently working as Director of Engineering at [PayU Credit](https://www.lazypay.in/), where I spearhead the development of mobile and web apps. With over a decade of experience, I specialize in crafting systems designed for performance and scale.
+# <img src="https://github.com/reactivedroid.png" width="100px;" height="100px;" alt="Ashwini Kumar" /> Hi 👋,  I'm Ashwini Kumar
+## Full-Stack Engineering Leader | Director of Engineering at [PayU Credit](https://www.lazypay.in/)
 
-As a [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini-kumar), I leverage cutting-edge technologies to drive innovation. Additionally, I find immense satisfaction in my role as a Mentor at [Scaler](https://www.scaler.com/), guiding and nurturing aspiring talents.
+As a seasoned full-stack engineering leader, I currently serve as the **Director of Engineering at PayU Credit**, where I lead a team of 30+ engineers in scaling our mobile and web platforms, while optimizing the performance and reliability of backend services. My core focus is driving innovative solutions that enhance user experiences, scale seamlessly, and deliver robust outcomes in high-performance environments.
 
-A proud Computer Science alumnus of [National Institute of Technology, Tiruchhirappalli](https://www.nitt.edu/), I've led projects spanning diverse domains—from Gaming([Mobile Premier League](https://www.mpl.live/)), FinTech([InCred](https://www.incred.com/)),  Entertainment([Disney+Hotstar](https://www.hotstar.com/)), Healthcare and eCommerce([1mg](https://www.1mg.com/)), HCM Fusion Apps([Oracle](www.oracle.com)), and Agro & Construction Tech([Trimble](https://www.trimble.com/)).
+With **over a decade of experience** developing customer-facing applications, I specialize in **crafting highly scalable systems** using the latest in **cutting-edge technologies**. My work spans industries including **FinTech**, **Gaming**, **Entertainment**, **Healthcare**, and **eCommerce**, allowing me to bring a diverse, holistic approach to technical leadership.
 
-In addition to my technical prowess, I excel in leadership and technical management, driving cross-functional teams towards ambitious goals. Committed to engineering excellence, I stay at the forefront of technological advancements.
+### **Google Developer Expert in Firebase**
+Recognized as a **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini-kumar)**, I leverage my expertise to integrate real-time, cloud-based solutions into consumer applications, helping businesses innovate faster and smarter.
 
-When not immersed in code, I explore articles and open-source repositories for fresh ideas to share with my team. I also enjoy quality time with friends, engaging in board games like Monopoly, and Life. Let's connect and innovate together! 🎯
+### **Mentorship and Community Involvement**
+I’m equally passionate about mentoring. As a mentor at **[Scaler](https://www.scaler.com/)**, I take pride in guiding the next generation of engineering talent, helping them unlock their potential and build meaningful careers in tech.
+
+### **Engineering Leadership and Tech Management**
+A proud alumnus of the **[National Institute of Technology, Tiruchirappalli](https://www.nitt.edu/)**, my journey has included leading large, cross-functional teams at companies like **Disney+ Hotstar**, **Mobile Premier League**, **InCred**, **1mg**, and **Oracle**. From handling architectural overhauls to managing large-scale project deliveries, I ensure that teams remain aligned with business goals while pushing technical boundaries.
+
+### **Continuous Learning and Exploration**
+I'm driven by the ethos of **continuous improvement** — as both an engineer and a leader. I constantly explore new technologies and open-source repositories to stay at the forefront of modern engineering trends. This drive feeds directly into my leadership approach, where I emphasize innovation and sustainable growth.
+
+In my downtime, you'll often find me immersed in board games like **Monopoly** and **Life**, or diving into the latest articles on emerging technologies to bring fresh ideas back to the table. 
+
+I’m always open to connecting with like-minded professionals. Let’s collaborate and **build the future** together! 🚀
 
 ## [Blogs](https://blogs.reactivedroid.com/) 📓
 
 > **In addition to [Medium](https://medium.com/@reactivedroid), I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.**
 
-### Recent musings 📝
+## Recent musings 📝
 
 * [Hard-earned Learnings From Navigating Google Play App Rejections](https://blogs.reactivedroid.com/hard-earned-learnings-from-navigating-google-play-app-rejections) 
 * [From Experience to Infrastructure Engineering: A Tale of Kubernetes Certifications](https://blogs.reactivedroid.com/from-experience-to-infrastructure-engineering-a-tale-of-kubernetes-certifications)
