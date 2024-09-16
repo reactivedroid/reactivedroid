@@ -25,7 +25,7 @@ I’m always open to connecting with like-minded professionals. Let’s collabor
 
 > **In addition to [Medium](https://medium.com/@reactivedroid), I'm thrilled to announce that I'll be expanding my article publications to my very [own blog](https://blogs.reactivedroid.com/) ✨. Articles on my own platform will take precedence, ensuring that you receive the latest insights and content directly from me.**
 
-## Recent musings 📝
+## Latest Musings 📝
 
 * [Hard-earned Learnings From Navigating Google Play App Rejections](https://blogs.reactivedroid.com/hard-earned-learnings-from-navigating-google-play-app-rejections) 
 * [From Experience to Infrastructure Engineering: A Tale of Kubernetes Certifications](https://blogs.reactivedroid.com/from-experience-to-infrastructure-engineering-a-tale-of-kubernetes-certifications)
@@ -34,10 +34,9 @@ I’m always open to connecting with like-minded professionals. Let’s collabor
 * [Improving CI/CD pipeline for Android via Fastlane and GitHub Actions](https://blogs.reactivedroid.com/improving-ci-cd-pipeline-for-android-via-fastlane-and-github-actions-a635162d2c53)
 * [Enhanced selfie experience via MLKit](https://blogs.reactivedroid.com/enhanced-selfie-experience-via-mlkit-ffc52017045b)
 * [Uninstall tracking via BigQuery and Airflow](https://blogs.reactivedroid.com/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)                            
-
 Interested in delving deeper? Explore my collection of [blogs](https://blogs.reactivedroid.com/) for a comprehensive look at all the content I've published to date. 🏃‍♂️
 
-## Featured arena 💫
+## Featured Arena 💫
 
 * Speaker on [Google for Startups](https://startup.google.com/) program hosted by [91springboard](https://www.91springboard.com/) for [Architecting android app for scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale) conducted on [Apr 01, 2022](https://www.meetup.com/91springboardDelhi/events/284796996/)
 * Speaker on [Google for Startups](https://startup.google.com/) program hosted by [91springboard](https://www.91springboard.com/) for [Supercharge your app with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) conducted on [Jan 12, 2022](https://www.meetup.com/91springboardDelhi/events/283115481/)
@@ -49,14 +48,14 @@ Interested in delving deeper? Explore my collection of [blogs](https://blogs.rea
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
 * [TvFlix](https://github.com/reactivedroid/TvFlix) - App stating the latest Android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
 
-## Apps built for India scale 🚀
+## Apps Built for India Scale 🚀
 
 * [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay)
-* [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
-* [MPL](https://www.mpl.live/)
-* [InCred](https://play.google.com/store/apps/details?id=com.incred.customer)
 * [Disney+Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
+* [MPL](https://www.mpl.live/)
 * [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
+* [InCred](https://play.google.com/store/apps/details?id=com.incred.customer)
+* [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 
 ## Certifications 🎓
 
@@ -75,7 +74,7 @@ Interested in delving deeper? Explore my collection of [blogs](https://blogs.rea
 ## Connect with me 🤝
 
 * [X](https://twitter.com/reactivedroid)
+* [LinkedIn](https://www.linkedin.com/in/reactivedroid/)
 * [Medium](https://medium.com/@reactivedroid)
 * [GitHub](https://github.com/reactivedroid)
-* [LinkedIn](https://www.linkedin.com/in/reactivedroid/)
 * <a rel="me" href="https://hachyderm.io/@reactivedroid">Mastodon</a>
