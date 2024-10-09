@@ -6,7 +6,7 @@ As a seasoned full-stack engineering leader, I currently serve as the **Director
 With **over a decade of experience** developing customer-facing applications, I specialize in **crafting highly scalable systems** using the latest in **cutting-edge technologies**. My work spans industries including **FinTech**, **Gaming**, **Entertainment**, **Healthcare**, and **eCommerce**, allowing me to bring a diverse, holistic approach to technical leadership.
 
 ### **Google Developer Expert in Firebase**
-Recognized as a **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory/profile/profile-ashwini-kumar)**, I leverage my expertise to integrate real-time, cloud-based solutions into consumer applications, helping businesses innovate faster and smarter.
+Recognized as a **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)**, I leverage my expertise to integrate real-time, cloud-based solutions into consumer applications, helping businesses innovate faster and smarter.
 
 ### **Mentorship and Community Involvement**
 I’m equally passionate about mentoring. As a mentor at **[Scaler](https://www.scaler.com/)**, I take pride in guiding the next generation of engineering talent, helping them unlock their potential and build meaningful careers in tech.
