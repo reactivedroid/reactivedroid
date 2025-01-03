@@ -1,7 +1,9 @@
 # <img src="https://github.com/reactivedroid.png" width="100px;" height="100px;" alt="Ashwini Kumar" /> Hi 👋,  I'm Ashwini Kumar
-## Full-Stack Engineering Leader | Director of Engineering at [PayU Credit](https://www.lazypay.in/)
+## Full-Stack Engineering Leader
 
-As a seasoned full-stack engineering leader, I currently serve as the **Director of Engineering at PayU Credit**, where I lead a team of 30+ engineers in scaling our mobile and web platforms, while optimizing the performance and reliability of backend services. My core focus is driving innovative solutions that enhance user experiences, scale seamlessly, and deliver robust outcomes in high-performance environments.
+As a seasoned engineering leader, I am proud to serve as the **Senior Engineering Manager at [Omio](https://www.omio.com/)**, where I am spearheading the establishment and growth of a new engineering team in India. This initiative is focused on driving Omio’s expansion and building innovative solutions that redefine the travel experience.
+
+Before joining Omio, I held a leadership role at [PayU](https://lazypay.in), a prominent FinTech company, where I led a dynamic and high-performing team. Together, we delivered cutting-edge financial solutions that enhanced user experiences, optimized scalability, and drove impactful business outcomes.
 
 With **over a decade of experience** developing customer-facing applications, I specialize in **crafting highly scalable systems** using the latest in **cutting-edge technologies**. My work spans industries including **FinTech**, **Gaming**, **Entertainment**, **Healthcare**, and **eCommerce**, allowing me to bring a diverse, holistic approach to technical leadership.
 
@@ -48,7 +50,7 @@ Interested in delving deeper? Explore my collection of [blogs](https://blogs.rea
 * Featured on [What's new in Firebase at Google IO 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
 * [TvFlix](https://github.com/reactivedroid/TvFlix) - App stating the latest Android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) using Android Jetpack Libraries, purely written in Kotlin
 
-## Apps Built for India Scale 🚀
+## Apps Built for Scale 🚀
 
 * [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay)
 * [Disney+Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
