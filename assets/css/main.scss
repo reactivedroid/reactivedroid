@@ -1,0 +1,44 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}";
+@import "minimal-mistakes";
+
+/* --- Custom polish for reactivedroid.com --- */
+
+/* Slightly wider content for the landing page */
+.page__content h2 {
+  margin-top: 2em;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.3em;
+}
+
+/* Tighten feature-row cards */
+.feature__item .archive__item-body {
+  padding: 1em;
+}
+
+/* Make inline "tech tag" code chips look like pills */
+.page__content code.highlighter-rouge {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  padding: 0.15em 0.5em;
+  font-size: 0.85em;
+}
+
+/* Light mode code chips */
+.light-mode .page__content code.highlighter-rouge {
+  background-color: #eef2ff;
+  color: #4338ca;
+}
+
+/* Blockquote (philosophy line) accent */
+.page__content blockquote {
+  border-left: 4px solid $primary-color;
+  font-style: normal;
+}
+
+/* Rounded avatar in sidebar */
+.author__avatar img {
+  border-radius: 50%;
+}

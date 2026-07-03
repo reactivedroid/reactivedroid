@@ -1,0 +1,28 @@
+<script>
+(function() {
+  // Enable transitions after first paint
+  requestAnimationFrame(function() {
+    requestAnimationFrame(function() {
+      document.documentElement.classList.remove('no-transitions');
+    });
+  });
+
+  var isLight = document.documentElement.classList.contains('light-mode');
+
+  // Inject toggle button into the masthead nav
+  var nav = document.querySelector('.greedy-nav');
+  if (nav) {
+    var btn = document.createElement('button');
+    btn.className = 'theme-toggle';
+    btn.setAttribute('aria-label', 'Toggle light/dark mode');
+    btn.innerHTML = isLight ? '🌙' : '☀️';
+    btn.addEventListener('click', function() {
+      document.documentElement.classList.toggle('light-mode');
+      var nowLight = document.documentElement.classList.contains('light-mode');
+      btn.innerHTML = nowLight ? '🌙' : '☀️';
+      localStorage.setItem('theme', nowLight ? 'light' : 'dark');
+    });
+    nav.appendChild(btn);
+  }
+})();
+</script>

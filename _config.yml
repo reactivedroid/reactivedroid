@@ -1,3 +1,124 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# ---------------------------------------------------------------------------
+#  reactivedroid.com — minimal-mistakes (remote theme)
+# ---------------------------------------------------------------------------
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"   # air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Site settings
+locale: "en-US"
+title: "Ashwini Kumar"
+title_separator: "|"
+subtitle: "Engineering Leader · Scaling Travel Tech · Building AI-Native Teams"
+name: "Ashwini Kumar"
+description: "Senior Engineering Manager at Omio. Scaling multi-modal travel across Asia, leading the global Ferries division, and building AI-native engineering teams."
+url: "https://www.reactivedroid.com"
+baseurl: ""
+repository: "reactivedroid/reactivedroid"
+logo: "https://github.com/reactivedroid.png"
+search: false
+
+# Build settings
+markdown: kramdown
+
+# SEO & social
+twitter:
+  username: reactivedroid
+og_image: "https://github.com/reactivedroid.png"
+social:
+  type: Person
+  name: Ashwini Kumar
+  links:
+    - "https://www.linkedin.com/in/reactivedroid/"
+    - "https://twitter.com/reactivedroid"
+    - "https://github.com/reactivedroid"
+
+# Plugins (GitHub Pages whitelist-safe)
 plugins:
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-seo-tag
+
+# ---------------------------------------------------------------------------
+#  Author sidebar
+# ---------------------------------------------------------------------------
+author:
+  name: "Ashwini Kumar"
+  avatar: "https://github.com/reactivedroid.png"
+  bio: "Senior Engineering Manager @ Omio · Google Developer Expert (Firebase) · Scaling travel tech across Asia & leading global Ferries."
+  location: "India"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.reactivedroid.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/reactivedroid/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/reactivedroid"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/reactivedroid"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@reactivedroid"
+    - label: "Blog"
+      icon: "fas fa-fw fa-pen-nib"
+      url: "https://blogs.reactivedroid.com/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://hachyderm.io/@reactivedroid"
+
+# Site footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/reactivedroid/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/reactivedroid"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://twitter.com/reactivedroid"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@reactivedroid"
+
+# ---------------------------------------------------------------------------
+#  Defaults
+# ---------------------------------------------------------------------------
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Gemfile.lock.*
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - node_modules
+  - LICENSE
+  - _plugins

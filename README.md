@@ -27,9 +27,9 @@ I lead engineering the way I'd want to be led — **clear mandate, high ownershi
 
 ---
 
-## 🚀 What I'm Building Now @ Omio
+## 🚀 What I'm Building Now at Omio
 
-- **🌏 Asia Expansion** — Spearheading Omio's growth across Asia, building the **multi-modal travel experience** spanning **Japan** and **South East Asia** — bringing rail, bus, air, and ground transport into a single seamless journey, backed by a new engineering team I'm scaling in India.
+- **🌏 Asia Expansion** — Spearheading Omio's growth across Asia, building the **multi-modal travel experience** spanning **Japan** and **South East Asia** — bringing trains, bus, air, and ferries into a single seamless journey, backed by a new engineering team I'm scaling in India.
 - **⛴️ Ferries** — Owning engineering for Omio's **worldwide Ferries business** end-to-end — from provider integrations to the booking flows travelers depend on across the globe.
 
 Before Omio, I led a high-performing team at **[PayU Finance](https://payufin.in/)**, delivering FinTech solutions that scaled user experience and business outcomes.
