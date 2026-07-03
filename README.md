@@ -16,38 +16,49 @@
 
 ---
 
+## 🚀 What I'm Building Now at Omio
+
+- **🌏 Asia Expansion** — Leading Omio's expansion across Asia, building the **multi-modal travel experience** spanning **Japan** and **South East Asia** — bringing trains, bus, air, and ferries into a single seamless journey, backed by an engineering team I'm growing in India.
+- **⛴️ Ferries** — Leading engineering for Omio's **worldwide Ferries business** end-to-end — from provider integrations to the booking flows travelers depend on across the globe.
+
+---
+
 ## 🧭 Engineering Leadership & Strategy
 
-I lead engineering the way I'd want to be led — **clear mandate, high ownership, ruthless focus on outcomes over output.** As a **Senior Engineering Manager at [Omio](https://www.omio.com/)**, I turn ambiguous business bets into shipped, scalable systems and grow the people who build them.
+I lead engineering the way I'd want to be led — **clear mandate, high ownership, sharp focus on outcomes over output.** As a **Senior Engineering Manager at [Omio](https://www.omio.com/)**, I turn ambiguous business goals into shipped, scalable systems and grow the people who build them.
 
 - **📈 Strategy & Scale** — I translate company-level goals into technical roadmaps, set the architectural direction for systems serving **millions of travelers**, and make the build-vs-buy, now-vs-later calls that keep delivery fast without mortgaging the future.
-- **👥 People & Engineering Management** — I built a new engineering org in India from **zero to a high-performing team**, hiring, mentoring, and creating the career frameworks, feedback loops, and on-call culture that let engineers do their best work.
+- **👥 People & Engineering Management** — I grew an engineering team in India **from the ground up**, hiring, mentoring, and creating the career frameworks, feedback loops, and on-call practices that help engineers do their best work.
 - **⚙️ Engineering Excellence** — I raise the floor and the ceiling: spec-driven development, strong review culture, observability, and rollback-first delivery so the team ships confidently and recovers gracefully.
 - **🌐 Cross-functional Delivery** — Aligning product, design, and business stakeholders across time zones and verticals to deliver coherent, on-time outcomes.
 
 ---
 
-## 🚀 What I'm Building Now at Omio
-
-- **🌏 Asia Expansion** — Spearheading Omio's growth across Asia, building the **multi-modal travel experience** spanning **Japan** and **South East Asia** — bringing trains, bus, air, and ferries into a single seamless journey, backed by a new engineering team I'm scaling in India.
-- **⛴️ Ferries** — Owning engineering for Omio's **worldwide Ferries business** end-to-end — from provider integrations to the booking flows travelers depend on across the globe.
-
-Before Omio, I led a high-performing team at **[PayU Finance](https://payufin.in/)**, delivering FinTech solutions that scaled user experience and business outcomes.
-
----
-
 ## 🤖 Building an AI-Native Engineering Team
 
-I'm on a mission to make my team **AI-native** — not by adding tools, but by rewiring how we build so AI compounds developer leverage at every stage of the SDLC. The goal: **faster product development, higher quality, less toil.**
+I'm working to make my team **AI-native** — not just by adding tools, but by rethinking how we build so AI compounds developer leverage at every stage of the SDLC. The goal: **faster product development, higher quality, less toil.**
 
 - **⚡ Developer Productivity** — Embedding AI copilots and agents into daily workflows so engineers spend time on judgment, not boilerplate.
-- **🔁 AI-Powered Code Reviews** — Automated first-pass reviews that catch bugs, security issues, and style drift before a human ever looks — reviewers focus on design, not nitpicks.
+- **🔁 AI-Powered Code Reviews** — Automated first-pass reviews that catch bugs, security issues, and style drift before a human reviewer steps in — so reviewers focus on design, not nitpicks.
 - **📝 Spec-Driven Development** — A standardized `spec.md` as the single source of truth — goals, non-goals, acceptance criteria, observability, and rollback — driving both implementation and AI-assisted testing.
 - **🛠️ Workflow Automation** — Orchestrating **n8n** pipelines and agentic workflows to automate ops, reporting, and glue work across the engineering toolchain.
 - **🚢 One-Touch Deployments** — AI-assisted release pipelines that make shipping to production a single, safe, observable action.
 - **📊 Observability for AI** — Tracing and evaluating LLM-powered features and dev tooling with **LangFuse**, so AI in the loop stays measurable and trustworthy.
 
 > **Philosophy:** AI doesn't replace engineering judgment — it amplifies it. My job is to build the guardrails, culture, and tooling that let a small team ship like a large one.
+
+---
+
+## 👨‍💻 About Me
+
+With **10+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership. Before Omio, I led a high-performing team at **[PayU Finance](https://payufin.in/)**.
+
+- 🏅 **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)** — real-time, cloud-based solutions in consumer apps at scale.
+- 🎓 **Mentor at [Scaler](https://www.scaler.com/)** — guiding the next generation of engineers.
+- 🏛️ **Alumnus of [NIT Tiruchirappalli](https://www.nitt.edu/)** — with leadership roles at **Disney+ Hotstar, Mobile Premier League, InCred, 1mg, and Oracle**.
+- 🎲 Off the clock: board games like **Monopoly** and **Life**, and reading up on emerging tech.
+
+> 💬 Always open to connecting with like-minded builders. Let's **build the future** together!
 
 ---
 
@@ -75,16 +86,21 @@ I'm on a mission to make my team **AI-native** — not by adding tools, but by r
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Apps Built for Scale
 
-With **10+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership.
+[Omio](https://www.omio.com/) · [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay) · [Disney+ Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar) · [MPL](https://www.mpl.live/) · [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) · [InCred](https://play.google.com/store/apps/details?id=com.incred.customer) · [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 
-- 🏅 **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)** — real-time, cloud-based solutions in consumer apps at scale.
-- 🎓 **Mentor at [Scaler](https://www.scaler.com/)** — guiding the next generation of engineers.
-- 🏛️ **Alumnus of [NIT Tiruchirappalli](https://www.nitt.edu/)** — with leadership roles at **Disney+ Hotstar, Mobile Premier League, InCred, 1mg, and Oracle**.
-- 🎲 Off the clock: board games like **Monopoly** and **Life**, and reading up on emerging tech.
+---
 
-> 💬 Always open to connecting with like-minded builders. Let's **build the future** together!
+## 💫 Featured Arena
+
+- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Architecting Android Apps for Scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale) ([Apr 2022](https://www.meetup.com/91springboardDelhi/events/284796996/))
+- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Supercharge Your App with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) ([Jan 2022](https://www.meetup.com/91springboardDelhi/events/283115481/))
+- 🔐 [Enabling SSO on native apps at MPL via ForgeRock](https://www.forgerock.com/blog/mobile-premier-league-implements-forgerock-support-growth-85-million-customers-worldwide-and-0)
+- 📚 [Author in Google's Dev Library](https://devlibrary.withgoogle.com/authors/reactivedroid) — with [Uninstall Tracking via BigQuery and Airflow](https://devlibrary.withgoogle.com/products/firebase) featured officially
+- 🎤 Speaker — [Release Gently: Feature Gates & A/B](https://speakerdeck.com/reactivedroid/b) ([Jun 2018](https://www.meetup.com/blrdroid/events/251716069/))
+- 🎥 Featured on [Firebase Developer Story](https://www.youtube.com/watch?v=LZUlPUsmd_w) & [What's New in Firebase at Google I/O 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
+- 💻 [TvFlix](https://github.com/reactivedroid/TvFlix) — modern Android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) with Jetpack, pure Kotlin
 
 ---
 
@@ -101,24 +117,6 @@ Articles publish first on my [**own blog**](https://blogs.reactivedroid.com/) �
 - [Uninstall Tracking via BigQuery and Airflow](https://blogs.reactivedroid.com/uninstall-tracking-via-bigquery-and-airflow-40eb33d8bedc)
 
 → Explore the full [collection of blogs](https://blogs.reactivedroid.com/) 🏃‍♂️
-
----
-
-## 💫 Featured Arena
-
-- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Architecting Android Apps for Scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale) ([Apr 2022](https://www.meetup.com/91springboardDelhi/events/284796996/))
-- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Supercharge Your App with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) ([Jan 2022](https://www.meetup.com/91springboardDelhi/events/283115481/))
-- 🔐 [Enabling SSO on native apps at MPL via ForgeRock](https://www.forgerock.com/blog/mobile-premier-league-implements-forgerock-support-growth-85-million-customers-worldwide-and-0)
-- 📚 [Author in Google's Dev Library](https://devlibrary.withgoogle.com/authors/reactivedroid) — with [Uninstall Tracking via BigQuery and Airflow](https://devlibrary.withgoogle.com/products/firebase) featured officially
-- 🎤 Speaker — [Release Gently: Feature Gates & A/B](https://speakerdeck.com/reactivedroid/b) ([Jun 2018](https://www.meetup.com/blrdroid/events/251716069/))
-- 🎥 Featured on [Firebase Developer Story](https://www.youtube.com/watch?v=LZUlPUsmd_w) & [What's New in Firebase at Google I/O 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
-- 💻 [TvFlix](https://github.com/reactivedroid/TvFlix) — modern Android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) with Jetpack, pure Kotlin
-
----
-
-## 🌐 Apps Built for Scale
-
-[Omio](https://www.omio.com/) · [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay) · [Disney+ Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar) · [MPL](https://www.mpl.live/) · [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) · [InCred](https://play.google.com/store/apps/details?id=com.incred.customer) · [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 
 ---
 
