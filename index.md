@@ -92,4 +92,6 @@ With **13+ years** building customer-facing applications, I specialize in **arch
 - **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0b64e3b5-4948-4a6b-bb08-c88cbfc06adf)** — The Linux Foundation, Apr 2024
 - **[CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)** — The Linux Foundation, Feb 2024
 
-<p align="center">✨🤖 Vibe-coded with AI — because even portfolios deserve a copilot. 🚀</p>
+<div class="vibe-footer" markdown="0">
+  ✨🤖 Vibe-coded with AI — because even portfolios deserve a copilot. 🚀
+</div>

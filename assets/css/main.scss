@@ -10,9 +10,9 @@
    Unified spacing: 1em between every section
    ========================================================== */
 
-/* Every h2 gets exactly 1em above, 0.5em below */
+/* Every h2 gets symmetric spacing */
 .page__content h2 {
-  margin: 1em 0 0.5em;
+  margin: 1em 0 1em;
 }
 
 /* First h2 after hero: tighter */
@@ -22,19 +22,19 @@
 
 /* h3 sub-headings */
 .page__content h3 {
-  margin: 0.75em 0 0.4em;
+  margin: 0.75em 0 0.75em;
   border-bottom: 1px solid $border-color;
   padding-bottom: 0.2em;
 }
 
-/* Body content: uniform 0.5em bottom */
+/* Body content: uniform bottom margin */
 .page__content p,
 .page__content ul,
 .page__content ol,
 .page__content blockquote,
 .page__content .tech-badges,
-.page__content div:not(.feature__wrapper):not(.feature__item) {
-  margin-bottom: 0.5em;
+.page__content div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer) {
+  margin-bottom: 0.75em;
 }
 
 .page__content li {
