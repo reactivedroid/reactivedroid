@@ -51,7 +51,7 @@ I'm working to make my team **AI-native** — not just by adding tools, but by r
 
 ## 👨‍💻 About Me
 
-With **10+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership. Before Omio, I led a high-performing team at **[PayU Finance](https://payufin.in/)**.
+With **13+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership. Before Omio, I led a high-performing team at **[PayU Finance](https://payufin.in/)**.
 
 - 🏅 **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)** — real-time, cloud-based solutions in consumer apps at scale.
 - 🎓 **Mentor at [Scaler](https://www.scaler.com/)** — guiding the next generation of engineers.

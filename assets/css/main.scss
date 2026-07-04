@@ -6,16 +6,76 @@
 
 /* --- Custom polish for reactivedroid.com --- */
 
-/* Slightly wider content for the landing page */
+/* ==========================================================
+   Unified spacing: 1em between every section
+   ========================================================== */
+
+/* Every h2 gets exactly 1em above, 0.5em below */
 .page__content h2 {
-  margin-top: 2em;
-  border-bottom: 1px solid $border-color;
-  padding-bottom: 0.3em;
+  margin: 1em 0 0.5em;
 }
 
-/* Tighten feature-row cards */
+/* First h2 after hero: tighter */
+.initial-content .page__content h2:first-child {
+  margin-top: 0.5em;
+}
+
+/* h3 sub-headings */
+.page__content h3 {
+  margin: 0.75em 0 0.4em;
+  border-bottom: 1px solid $border-color;
+  padding-bottom: 0.2em;
+}
+
+/* Body content: uniform 0.5em bottom */
+.page__content p,
+.page__content ul,
+.page__content ol,
+.page__content blockquote,
+.page__content .tech-badges,
+.page__content div:not(.feature__wrapper):not(.feature__item) {
+  margin-bottom: 0.5em;
+}
+
+.page__content li {
+  margin-bottom: 0.15em;
+}
+
+/* Feature rows: zero internal spacing */
+.feature__wrapper {
+  margin: 0 0 0.25em;
+  padding: 0;
+  border-bottom: none !important;
+}
+
+.feature__item {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 .feature__item .archive__item-body {
-  padding: 1em;
+  padding: 0.25em 0.5em;
+}
+
+.feature__item .archive__item-title {
+  margin: 0 0 0.15em;
+  font-size: 1.1em !important;
+}
+
+.feature__item .archive__item-excerpt,
+.feature__item .archive__item-excerpt p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Remove all divider lines */
+.page__content hr {
+  display: none;
+}
+
+/* Hero section */
+.page__hero--overlay {
+  padding: 2.5em 0 1.5em;
 }
 
 /* Make inline "tech tag" code chips look like pills */

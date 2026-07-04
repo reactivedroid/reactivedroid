@@ -1,9 +1,5 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Blog"
     url: https://blogs.reactivedroid.com/
   - title: "GitHub"
     url: https://github.com/reactivedroid
-  - title: "LinkedIn"
-    url: https://www.linkedin.com/in/reactivedroid/

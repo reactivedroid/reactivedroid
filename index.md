@@ -28,11 +28,11 @@ feature_row_now:
     excerpt: "Leading engineering for Omio's **worldwide Ferries business** end-to-end — from provider integrations to the booking flows travelers depend on across the globe."
 ---
 
-## What I'm Building Now at Omio
+## 🚀 What I'm Building Now at Omio
 
 {% include feature_row id="feature_row_now" %}
 
-## Leadership & Strategy
+## 🧭 Leadership & Strategy
 
 {% include feature_row id="feature_row_leadership" %}
 
@@ -51,13 +51,13 @@ I'm working to make my team **AI-native** — not just by adding tools, but by r
 
 ## 👨‍💻 About
 
-With **10+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership. Before Omio, I led a high-performing team at [PayU Finance](https://payufin.in/).
+With **13+ years** building customer-facing applications, I specialize in **architecting highly scalable systems** across **FinTech, Gaming, Entertainment, Healthcare, and eCommerce** — a breadth that shapes a holistic approach to technical leadership. Before Omio, I led a high-performing team at [PayU Finance](https://payufin.in/).
 
 - 🏅 **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)**
 - 🎓 **Mentor at [Scaler](https://www.scaler.com/)**
 - 🏛️ **Alumnus of [NIT Tiruchirappalli](https://www.nitt.edu/)** — with leadership roles at Disney+ Hotstar, MPL, InCred, 1mg, and Oracle.
 
-### Tech & Tools
+### 🛠️ Tech & Tools
 
 <div class="tech-badges" markdown="0">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
@@ -91,7 +91,5 @@ With **10+ years** building customer-facing applications, I specialize in **arch
 
 - **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0b64e3b5-4948-4a6b-bb08-c88cbfc06adf)** — The Linux Foundation, Apr 2024
 - **[CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)** — The Linux Foundation, Feb 2024
-
----
 
 <p align="center">✨🤖 Vibe-coded with AI — because even portfolios deserve a copilot. 🚀</p>
