@@ -10,7 +10,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 /* ===== Modern typography — override everything except icons ===== */
 *:not(.fab):not(.fas):not(.far):not(.fa):not(.fal):not(.fad):not([class*="fa-"]),
@@ -36,9 +36,8 @@ body .page__meta, body .page__footer {
 h1, h2, h3, h4, h5, h6,
 .page__title,
 .archive__item-title,
-.masthead__inner-wrap a,
 .site-title {
-  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
   font-weight: 700;
   letter-spacing: -0.025em;
 }
@@ -58,6 +57,23 @@ code, pre, .highlight {
 }
 strong {
   font-weight: 600;
+}
+/* Ensure all remaining elements get the right font */
+blockquote,
+blockquote p,
+.vibe-footer,
+.theme-toggle,
+.page__hero--overlay .page__lead,
+.page__hero--overlay .archive__item-excerpt,
+.page__footer,
+.page__footer a {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+}
+/* Nav links should be Inter (body font), not heading font */
+.greedy-nav .visible-links a,
+.greedy-nav a {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+  font-weight: 500;
 }
 /* ===== Disable transitions on load, enable after paint ===== */
 .no-transitions,
@@ -84,6 +100,7 @@ html:not(.no-transitions) *::after {
   border-color: #6366f1;
   color: #fff !important;
   border-radius: 6px;
+  margin-right: 0.5em;
 }
 .page__hero--overlay .btn:hover {
   background-color: #818cf8;
@@ -196,8 +213,6 @@ html:not(.no-transitions) *::after {
   border-left: 4px solid #a5b4fc;
   color: #475569;
   background-color: #eef2ff;
-  padding: 0.8em 1.2em;
-  border-radius: 0 8px 8px 0;
 }
 
 /* -- Code -- */
@@ -266,7 +281,7 @@ html:not(.no-transitions) *::after {
 /* ===== Vibe-coded footer banner ===== */
 .vibe-footer {
   text-align: center;
-  margin: 1em auto 0.5em;
+  margin: 2em auto 0;
   padding: 0.8em 1.2em;
   max-width: 80%;
   width: fit-content;

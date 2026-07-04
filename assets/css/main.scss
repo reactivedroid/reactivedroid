@@ -7,43 +7,61 @@
 /* --- Custom polish for reactivedroid.com --- */
 
 /* ==========================================================
-   Unified spacing: 1em between every section
+   Spacing system
+   --section-gap controls the space between every section.
+   All other spacing derives from this to stay consistent.
    ========================================================== */
 
-/* Every h2 gets symmetric spacing */
+/* -- Section headings -- */
 .page__content h2 {
-  margin: 1em 0 1em;
+  margin: 2em 0 0.6em;
 }
 
-/* First h2 after hero: tighter */
+/* First h2 right after hero needs less top space */
 .initial-content .page__content h2:first-child {
-  margin-top: 0.5em;
+  margin-top: 0.75em;
 }
 
-/* h3 sub-headings */
+/* Sub-headings within a section */
 .page__content h3 {
-  margin: 0.75em 0 0.75em;
+  margin: 1.5em 0 0.6em;
   border-bottom: 1px solid $border-color;
-  padding-bottom: 0.2em;
+  padding-bottom: 0.25em;
 }
 
-/* Body content: uniform bottom margin */
+/* -- Body content -- */
 .page__content p,
 .page__content ul,
-.page__content ol,
-.page__content blockquote,
-.page__content .tech-badges,
-.page__content div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer) {
-  margin-bottom: 0.75em;
+.page__content ol {
+  margin-bottom: 0.6em;
 }
 
 .page__content li {
-  margin-bottom: 0.15em;
+  margin-bottom: 0.2em;
 }
 
-/* Feature rows: zero internal spacing */
+/* Blockquote */
+.page__content blockquote {
+  border-left: 4px solid $primary-color;
+  font-style: normal;
+  margin-bottom: 0.6em;
+  padding: 0.75em 1.2em;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Tech badges container */
+.page__content .tech-badges {
+  margin-bottom: 0.6em;
+}
+
+/* Generic divs (not feature rows or special containers) */
+.page__content div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer):not(.tech-badges) {
+  margin-bottom: 0.6em;
+}
+
+/* -- Feature rows -- */
 .feature__wrapper {
-  margin: 0 0 0.25em;
+  margin: 0 0 0.6em;
   padding: 0;
   border-bottom: none !important;
 }
@@ -68,17 +86,17 @@
   padding-bottom: 0;
 }
 
-/* Remove all divider lines */
+/* -- Divider lines (hidden) -- */
 .page__content hr {
   display: none;
 }
 
-/* Hero section */
+/* -- Hero section -- */
 .page__hero--overlay {
   padding: 2.5em 0 1.5em;
 }
 
-/* Make inline "tech tag" code chips look like pills */
+/* -- Inline code pills -- */
 .page__content code.highlighter-rouge {
   background-color: rgba(255, 255, 255, 0.08);
   border-radius: 6px;
@@ -86,19 +104,12 @@
   font-size: 0.85em;
 }
 
-/* Light mode code chips */
 .light-mode .page__content code.highlighter-rouge {
   background-color: #eef2ff;
   color: #4338ca;
 }
 
-/* Blockquote (philosophy line) accent */
-.page__content blockquote {
-  border-left: 4px solid $primary-color;
-  font-style: normal;
-}
-
-/* Rounded avatar in sidebar */
+/* -- Rounded sidebar avatar -- */
 .author__avatar img {
   border-radius: 50%;
 }
