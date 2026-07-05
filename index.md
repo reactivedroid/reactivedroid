@@ -55,7 +55,7 @@ Not just adding copilots and calling it a day. I'm rethinking how we build softw
 
 - 🏅 [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)
 - 🎓 Mentor at [Scaler](https://www.scaler.com/)
-- 🏛️ [NIT Tiruchirappalli](https://www.nitt.edu/) alumnus, with stints at Disney+ Hotstar, MPL, InCred, 1mg, and Oracle.
+- 🏛️ [NIT Tiruchirappalli](https://www.nitt.edu/) alumnus, with stints at **Hotstar, MPL, PayU Finance, InCred, 1mg, Trimble and Oracle**.
 
 ### 🛠️ Tech & Tools
 
@@ -77,7 +77,7 @@ Not just adding copilots and calling it a day. I'm rethinking how we build softw
 
 ## 🌐 Products I've Worked On
 
-[Omio](https://www.omio.com/) · [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay) · [Disney+ Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar) · [MPL](https://www.mpl.live/) · [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) · [InCred](https://play.google.com/store/apps/details?id=com.incred.customer) · [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
+[Omio](https://www.omio.com/) · [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay) · [Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar) · [MPL](https://www.mpl.live/) · [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) · [InCred](https://play.google.com/store/apps/details?id=com.incred.customer) · [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 
 ## 💫 Talks & Features
 
