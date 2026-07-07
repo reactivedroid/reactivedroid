@@ -1,0 +1,11 @@
+{% capture document_title %}
+  {% if page.url == "/" %}
+    {{ site.title }}
+  {% elsif page.title and page.title != site.title %}
+    {{ page.title }} | {{ site.title }}
+  {% else %}
+    {{ site.title }}
+  {% endif %}
+{% endcapture %}
+<title>{{ document_title | strip | escape }}</title>
+{% seo title=false %}

@@ -8,3 +8,7 @@ vendor/
 .ruby-version
 _plugins/
 Gemfile.lock
+.DS_Store
+.playwright-cli/
+output/
+.claude/
