@@ -55,7 +55,7 @@
 }
 
 /* Generic divs (not feature rows or special containers) */
-.page__content div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer):not(.tech-badges) {
+.page__content div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer):not(.tech-badges):not(.resume-notice) {
   margin-bottom: 0.6em;
 }
 

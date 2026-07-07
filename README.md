@@ -18,8 +18,8 @@
 
 ## 🚀 What I'm Building Now at Omio
 
-- **🌏 Asia Expansion** — Scaling Omio's presence in Asia, starting with **Japan** and **South East Asia**. Multi-modal travel options across trains, buses, flights, and ferries — plus AI-powered products like [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me), [Japan Travel Planner](https://www.omio.com/app/travel-planner/japan), and more. Backed by a team I'm building in India.
-- **⛴️ Ferries** — Own the engineering for Omio's **global Ferries business** end-to-end. Provider integrations, booking flows, the works.
+- **🌏 Asia Expansion** - Scaling Omio's presence in Asia, starting with **Japan** and **South East Asia**. Multi-modal travel options across trains, buses, flights, and ferries, plus AI-powered products like [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me), [Japan Travel Planner](https://www.omio.com/app/travel-planner/japan), and more. Backed by a team I'm building in India.
+- **⛴️ Ferries** - Own the engineering for Omio's **global Ferries business**, provider integrations, booking flows, everything from search to ticket.
 
 ---
 
@@ -27,31 +27,30 @@
 
 **Senior Engineering Manager at [Omio](https://www.omio.com/).** I take loosely defined business goals, figure out the technical path, and build the team that delivers.
 
-- **📈 Strategy & Direction** — Own the technical roadmap for systems serving **millions of travelers**. Half the job is figuring out what *not* to build.
-- **👥 People & Teams** — Built an engineering team in India from scratch — hiring, mentoring, career frameworks, on-call rotations. The kind of environment where engineers stick around and grow.
-- **⚙️ Engineering Culture** — Spec-driven development, strong code reviews, observability baked in, rollback-first deployments. The team ships fast because they trust the process.
-- **🌐 Cross-functional Work** — Keeping product, design, and business aligned across time zones so things ship on time.
+- **📈 Strategy & Direction** - I own the technical roadmap and architectural decisions for systems serving millions of travelers. Half the job is figuring out what *not* to build.
+- **👥 People & Teams** - Built an engineering team in India from scratch. Hiring, mentoring, career frameworks, on-call rotations, the kind of environment where engineers want to stay.
+- **⚙️ Engineering Culture** - Spec-driven development, strong code reviews, observability baked in, rollback-first deployments. The team ships fast because they trust the process.
 
 ---
 
 ## 🤖 Making the Team AI-Native
 
-Not just adding copilots and calling it a day. I'm rethinking how we build software so AI is useful at every step.
+I'm working on making my team genuinely AI-native. That means changing how we build software, not just which tools we use.
 
-- AI copilots and agents in daily workflows — less boilerplate, more time on real problems
-- Automated first-pass code reviews that catch bugs, security gaps, and style issues before a human looks at the PR
-- Every feature starts with a `spec.md` (goals, non-goals, acceptance criteria, rollback plan) that drives both implementation and AI-assisted testing
-- **n8n** pipelines and agentic workflows to cut through ops toil and manual glue work
-- Working toward one-touch deploys — production shipping as a single, safe, observable action
-- Tracing LLM-powered features with **LangFuse** so we know what's working, not just what feels fast
+- AI copilots and agents are part of daily workflows, so engineers spend their time on problems that need judgment
+- Automated first-pass code reviews catch bugs, security gaps, and style issues before a human opens the PR
+- Every feature starts with a `spec.md` (goals, non-goals, acceptance criteria, rollback plan) that feeds into both implementation and AI-assisted testing
+- **n8n** pipelines and agentic workflows handle the ops toil and reporting that used to eat up engineering time
+- Working toward one-touch deploys where shipping to production is a single, safe action
+- Tracking LLM-powered features with **LangFuse** so we have real data on what's working
 
-> AI doesn't replace good engineering — it makes good engineers faster. The goal is building the right guardrails so a small team can do outsized work.
+> AI makes good engineers faster. My focus is on the guardrails and tooling that let a small team do more than its size suggests.
 
 ---
 
 ## 👨‍💻 About Me
 
-**13+ years** building products across FinTech, Gaming, Entertainment, Healthcare, and eCommerce. Working across that many domains taught me that architecture decisions always depend on the problem — there's no universal playbook. Before Omio, I led engineering at **[PayU Finance](https://payufin.in/)**.
+**13+ years** building products across FinTech, Gaming, Entertainment, Healthcare, and eCommerce. Working across that many domains taught me that the right architecture always depends on the problem you're solving. Before Omio, I led engineering at **[PayU Finance](https://payufin.in/)**.
 
 - 🏅 [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)
 - 🎓 Mentor at [Scaler](https://www.scaler.com/)
@@ -86,7 +85,7 @@ Not just adding copilots and calling it a day. I'm rethinking how we build softw
 
 ---
 
-## 🌐 Apps Built for Scale
+## 🌐 Products I've Worked On
 
 [Omio](https://www.omio.com/) · [LazyPay](https://play.google.com/store/apps/details?id=com.citrus.citruspay) · [Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar) · [MPL](https://www.mpl.live/) · [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) · [InCred](https://play.google.com/store/apps/details?id=com.incred.customer) · [PaySense](https://play.google.com/store/apps/details?id=com.gopaysense.android.boost)
 
@@ -94,13 +93,11 @@ Not just adding copilots and calling it a day. I'm rethinking how we build softw
 
 ## 💫 Talks & Features
 
-- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Architecting Android Apps for Scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale) ([Apr 2022](https://www.meetup.com/91springboardDelhi/events/284796996/))
-- 🎤 Speaker, [Google for Startups](https://startup.google.com/) × [91springboard](https://www.91springboard.com/) — [Supercharge Your App with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase) ([Jan 2022](https://www.meetup.com/91springboardDelhi/events/283115481/))
+- 🎤 [Architecting Android Apps for Scale](https://speakerdeck.com/reactivedroid/architecting-android-app-for-scale), Google for Startups x 91springboard *(Apr 2022)*
+- 🎤 [Supercharge Your App with Firebase](https://speakerdeck.com/reactivedroid/supercharge-your-app-with-firebase), Google for Startups x 91springboard *(Jan 2022)*
 - 🔐 [Enabling SSO on native apps at MPL via ForgeRock](https://www.forgerock.com/blog/mobile-premier-league-implements-forgerock-support-growth-85-million-customers-worldwide-and-0)
-- 📚 [Author in Google's Dev Library](https://devlibrary.withgoogle.com/authors/reactivedroid) — with [Uninstall Tracking via BigQuery and Airflow](https://devlibrary.withgoogle.com/products/firebase) featured officially
-- 🎤 Speaker — [Release Gently: Feature Gates & A/B](https://speakerdeck.com/reactivedroid/b) ([Jun 2018](https://www.meetup.com/blrdroid/events/251716069/))
-- 🎥 Featured on [Firebase Developer Story](https://www.youtube.com/watch?v=LZUlPUsmd_w) & [What's New in Firebase at Google I/O 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
-- 💻 [TvFlix](https://github.com/reactivedroid/TvFlix) — modern Android architecture following [SOLID principles](https://en.wikipedia.org/wiki/SOLID) with Jetpack, pure Kotlin
+- 📚 [Author in Google's Dev Library](https://devlibrary.withgoogle.com/authors/reactivedroid)
+- 🎥 Featured on [Firebase Developer Story](https://www.youtube.com/watch?v=LZUlPUsmd_w) and [Google I/O 2019](https://www.youtube.com/watch?v=x8qTEMkZCPs)
 
 ---
 
@@ -122,11 +119,8 @@ Articles publish first on my [**own blog**](https://blogs.reactivedroid.com/) �
 
 ## 🎓 Certifications
 
-**[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0b64e3b5-4948-4a6b-bb08-c88cbfc06adf)** — [The Linux Foundation](https://www.linuxfoundation.org/), Apr 2024
-> System Administration · Logging & Troubleshooting · Security Policies · Services · Scheduling · SRE
-
-**[CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)** — [The Linux Foundation](https://www.linuxfoundation.org/), Feb 2024
-> Container Orchestration · Kubernetes Architecture · App Deployment · Cloud Native · Docker · Helm
+- **[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/0b64e3b5-4948-4a6b-bb08-c88cbfc06adf)**, The Linux Foundation, Apr 2024
+- **[CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/58549c27-9e4d-49ba-8847-2667947d7df2)**, The Linux Foundation, Feb 2024
 
 ---
 
