@@ -26,17 +26,17 @@ classes: wide no-masthead landing-page
 
   <div class="landing-hero__content">
     <h1>Scaling Travel Tech Across Asia</h1>
-    <p class="landing-hero__summary">I lead engineering across Ferries, Asia expansion, and AI-native ways of building so small teams can move quickly without losing clarity.</p>
+    <p class="landing-hero__summary">I lead engineering across Ferries, Asia expansion, and AI-native delivery models so lean teams can move with speed, judgment, and clarity.</p>
   </div>
 </section>
 
 <div class="portfolio-shell" markdown="1">
 
 <div class="profile-intro" markdown="1">
-I spend most of my time in two places: helping travel products grow into new markets, and helping engineering teams stay calm, sharp, and effective as the system gets more complicated.
+I spend most of my time in two places: helping travel products expand into new markets, and helping engineering teams stay composed, effective, and high-leverage as the system grows more complex.
 
 <div class="signal-pills" markdown="0">
-  <span class="signal-pill">13+ years across product and platform engineering</span>
+  <span class="signal-pill">Built and scaled products across travel, fintech, media, gaming, and healthcare</span>
   <span class="signal-pill">Omio · PayU · Hotstar · MPL</span>
   <span class="signal-pill">Google Developer Expert in Firebase</span>
   <span class="signal-pill">CKA + CKAD</span>
@@ -48,18 +48,18 @@ I spend most of my time in two places: helping travel products grow into new mar
 <div class="story-grid" markdown="0">
   <article class="story-card">
     <p class="story-card__eyebrow">Asia Expansion</p>
-    <h3>Helping Omio grow into Japan and South East Asia without turning every market need into a one-off decision.</h3>
-    <p>The work spans localisation, provider nuance, operating discipline, and product choices that still make sense a year later.</p>
+    <h3>Helping Omio expand into Japan and Southeast Asia without turning every market requirement into a one-off decision.</h3>
+    <p>The work spans localisation, provider nuance, operating discipline, and product choices that remain coherent a year later.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">Global Ferries</p>
     <h3>Running the systems behind search, booking, and ticketing for Omio’s Ferries business.</h3>
-    <p>That means provider integrations, booking flows, and the kind of reliability work customers only notice when it breaks.</p>
+    <p>That means provider integrations, booking flows, and the reliability work customers only notice when it fails.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">AI-Native Delivery</p>
     <h3>Building an engineering model where specs, review automation, and agentic tooling actually reduce drag.</h3>
-    <p>I care less about AI theatre and more about giving engineers more time for judgment, design, and problem solving.</p>
+    <p>I care less about novelty and more about giving engineers more time for judgment, design, and hard problem solving.</p>
   </article>
 </div>
 
@@ -68,11 +68,11 @@ I spend most of my time in two places: helping travel products grow into new mar
 <div class="principles-grid" markdown="0">
   <article class="principle-card">
     <h3>Strategy before motion</h3>
-    <p>I like turning fuzzy goals into clear bets, explicit tradeoffs, and a sharp sense of what we are not going to build.</p>
+    <p>I focus on turning ambiguous goals into clear bets, explicit tradeoffs, and a sharp understanding of what not to build.</p>
   </article>
   <article class="principle-card">
     <h3>Teams with real leverage</h3>
-    <p>My job is to build teams that can make good decisions on their own, not teams that need more process every quarter.</p>
+    <p>My job is to build teams that make strong decisions independently, not teams that accumulate process every quarter.</p>
   </article>
   <article class="principle-card">
     <h3>Execution with guardrails</h3>
@@ -101,7 +101,7 @@ I spend most of my time in two places: helping travel products grow into new mar
   <article class="highlight-item">
     <p class="highlight-item__meta">Leadership Throughline</p>
     <h3>From mobile specialist to org builder</h3>
-    <p>The thread through my career is simple: start close to the product, go deep on systems, and then build teams that can carry both.</p>
+    <p>The throughline in my career is consistent: stay close to the product, go deep on systems, and build teams that can carry both.</p>
   </article>
 </div>
 
@@ -110,13 +110,13 @@ I spend most of my time in two places: helping travel products grow into new mar
 <div class="detail-panels" markdown="0">
   <article class="detail-panel">
     <h3>Writing</h3>
-    <p>I write about mobile architecture, CI/CD, Kubernetes, Play Store operations, and how engineering teams actually get better.</p>
+    <p>I write about mobile architecture, CI/CD, Kubernetes, Play Store operations, and the systems that help engineering teams improve over time.</p>
     <p><a href="https://blogs.reactivedroid.com/">Browse the blog</a></p>
   </article>
   <article class="detail-panel">
     <h3>Speaking</h3>
-    <p>I’ve spoken at Google for Startups, Firebase community events, and engineering meetups about scale, delivery, and developer experience.</p>
-    <p><a href="/resume/">See talks and experience</a></p>
+    <p>I’ve spoken at Google for Startups, Firebase community events, and engineering meetups about scale, delivery, and developer effectiveness.</p>
+    <p><a href="/resume/">See talks and background</a></p>
   </article>
   <article class="detail-panel">
     <h3>Recognition</h3>
@@ -125,10 +125,10 @@ I spend most of my time in two places: helping travel products grow into new mar
   </article>
 </div>
 
-> If you want the fuller career history, certifications, and role-by-role detail, head to the [Résumé](/resume/).
+> For fuller career history, certifications, and role-by-role detail, head to the [Résumé](/resume/).
 
 <div class="vibe-footer" markdown="0">
-  Built with a bias for clarity and a respect for infrastructure that does the boring parts well.
+  Built with a bias for clarity and respect for infrastructure that handles the boring parts well.
 </div>
 
 </div>

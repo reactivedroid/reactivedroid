@@ -50,7 +50,7 @@ I'm working on making my team genuinely AI-native. That means changing how we bu
 
 ## 👨‍💻 About Me
 
-**13+ years** building products across FinTech, Gaming, Entertainment, Healthcare, and eCommerce. Working across that many domains taught me that the right architecture always depends on the problem you're solving. Before Omio, I led engineering at **[PayU Finance](https://payufin.in/)**.
+Built and scaled products across travel, fintech, media, gaming, and healthcare. Working across those domains taught me how to match architecture, team design, and execution to the shape of the business problem. Before Omio, I led engineering at **[PayU Finance](https://payufin.in/)**.
 
 - 🏅 [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)
 - 🎓 Mentor at [Scaler](https://www.scaler.com/)
