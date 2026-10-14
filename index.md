@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: ""
-description: "Senior Engineering Manager at Omio, leading Ferries, Asia expansion, and AI-native engineering systems."
+description: "Engineering leader at Omio, building global travel systems, Asia expansion, and AI-native delivery models."
 author_profile: false
 classes: wide no-masthead landing-page
 ---
@@ -25,18 +25,21 @@ classes: wide no-masthead landing-page
   </div>
 
   <div class="landing-hero__content">
-    <h1>Scaling Travel Tech Across Asia</h1>
-    <p class="landing-hero__summary">I lead engineering across Ferries, Asia expansion, and AI-native delivery models so lean teams can move with speed, judgment, and clarity.</p>
+    <h1>Building global travel systems with teams that scale.</h1>
+    <p class="landing-hero__summary">I lead Omio’s Bengaluru Engineering Center, Asia expansion, and global Ferries engineering—helping teams move faster with strong systems, sharper decisions, and AI-native delivery.</p>
   </div>
 </section>
 
 <div class="portfolio-shell" markdown="1">
 
 <div class="profile-intro" markdown="1">
-I spend most of my time in two places: helping travel products expand into new markets, and helping engineering teams stay composed, effective, and high-leverage as the system grows more complex.
+I build engineering organisations and consumer products that can take on real scale: new markets, complex partner ecosystems, and systems customers trust when the journey matters. My work spans travel, fintech, media, gaming, and healthcare—from Bharat-scale platforms to global expansion.
 
 <div class="signal-pills" markdown="0">
-  <span class="signal-pill">Built and scaled products across travel, fintech, media, gaming, and healthcare</span>
+  <span class="signal-pill">0 → 30 engineers at Omio Bengaluru</span>
+  <span class="signal-pill">10+ countries in Asia expansion</span>
+  <span class="signal-pill">€25M+ Asia revenue enabled</span>
+  <span class="signal-pill">30K+ monthly Ferries bookings</span>
   <span class="signal-pill">Omio · PayU · Hotstar · MPL</span>
   <span class="signal-pill">Google Developer Expert in Firebase</span>
   <span class="signal-pill">CKA + CKAD</span>
@@ -48,18 +51,18 @@ I spend most of my time in two places: helping travel products expand into new m
 <div class="story-grid" markdown="0">
   <article class="story-card">
     <p class="story-card__eyebrow">Asia Expansion</p>
-    <h3>Helping Omio expand into Japan and Southeast Asia without turning every market requirement into a one-off decision.</h3>
-    <p>The work spans localisation, provider nuance, operating discipline, and product choices that remain coherent a year later.</p>
+    <h3>Leading expansion across 10+ countries without turning every local requirement into a one-off decision.</h3>
+    <p>Across India, Southeast Asia, and Japan, I align product, commercial, operations, and technology around journeys that remain coherent as the market footprint grows.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">Global Ferries</p>
-    <h3>Running the systems behind search, booking, and ticketing for Omio’s Ferries business.</h3>
-    <p>That means provider integrations, booking flows, and the reliability work customers only notice when it fails.</p>
+    <h3>Scaling the systems behind 30K+ monthly global Ferries bookings.</h3>
+    <p>I own the provider integrations, search, booking, ticketing, and reliability work behind a €400M+ annual-GBV business.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">AI-Native Delivery</p>
-    <h3>Building an engineering model where specs, review automation, and agentic tooling actually reduce drag.</h3>
-    <p>I care less about novelty and more about giving engineers more time for judgment, design, and hard problem solving.</p>
+    <h3>Making AI-native delivery useful in the messy parts of engineering.</h3>
+    <p>With 50+ n8n automations and agentic workflows, I focus on removing drag and cutting provider-integration lead time—without outsourcing judgment.</p>
   </article>
 </div>
 
@@ -85,18 +88,18 @@ I spend most of my time in two places: helping travel products expand into new m
 <div class="highlight-list" markdown="0">
   <article class="highlight-item">
     <p class="highlight-item__meta">Omio</p>
-    <h3>Scaling travel across regions and transport modes</h3>
-    <p>Leading Asia expansion while owning the global Ferries engineering surface.</p>
+    <h3>0 → 30 engineers, 10+ markets, €25M+ Asia revenue enabled</h3>
+    <p>Built the Bengaluru Engineering Center and led launches including the AI-powered Japan Travel Planner, Japan Rail Pass, and Delayed Booking.</p>
   </article>
   <article class="highlight-item">
     <p class="highlight-item__meta">PayU Finance</p>
-    <h3>Built and led a 30+ person org across backend, web, and mobile</h3>
-    <p>Launched new lending products, reduced infrastructure cost, and rebuilt delivery systems across the stack.</p>
+    <h3>Built and led a 30+ person organisation across backend, web, and mobile</h3>
+    <p>Launched new lending products, reduced infrastructure costs by 60%, and drove measurable DevEx gains across the stack.</p>
   </article>
   <article class="highlight-item">
     <p class="highlight-item__meta">Hotstar</p>
-    <h3>Helped shape Android architecture for a 300M+ user product</h3>
-    <p>Worked on platform capabilities including Picture-in-Picture, caching, live experiences, and a backend-switchable networking layer.</p>
+    <h3>Re-architected Android for 300M+ active users</h3>
+    <p>Built switchable networking, caching, and live-cricket capabilities for a high-scale consumer product.</p>
   </article>
   <article class="highlight-item">
     <p class="highlight-item__meta">Leadership Throughline</p>
@@ -110,7 +113,7 @@ I spend most of my time in two places: helping travel products expand into new m
 <div class="detail-panels" markdown="0">
   <article class="detail-panel">
     <h3>Writing</h3>
-    <p>I write about mobile architecture, CI/CD, Kubernetes, Play Store operations, and the systems that help engineering teams improve over time.</p>
+    <p>I write about mobile architecture, CI/CD, Kubernetes, Play Store operations, and the systems that help teams improve over time.</p>
     <p><a href="https://blogs.reactivedroid.com/">Browse the blog</a></p>
   </article>
   <article class="detail-panel">
@@ -120,7 +123,7 @@ I spend most of my time in two places: helping travel products expand into new m
   </article>
   <article class="detail-panel">
     <h3>Recognition</h3>
-    <p>Google Developer Expert in Firebase, mentor at Scaler, and Kubernetes certified through CKA and CKAD.</p>
+    <p>Google Developer Expert in Firebase, mentor at Scaler and Google Play Accelerator for Startups in India, and Kubernetes certified through CKA and CKAD.</p>
     <p><a href="https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar">View GDE profile</a></p>
   </article>
 </div>

@@ -2,7 +2,7 @@
 layout: single
 permalink: /resume/
 title: "Résumé"
-description: "Résumé of Ashwini Kumar, Senior Engineering Manager focused on travel systems, engineering leadership, and AI-native teams."
+description: "Résumé of Ashwini Kumar, engineering leader focused on global expansion, travel systems, and AI-native teams."
 author_profile: false
 classes: wide no-masthead resume-page
 ---
@@ -24,30 +24,26 @@ classes: wide no-masthead resume-page
     </div>
   </div>
   <div class="resume-hero__main">
-    <h1>Senior Engineering Manager building calm, high-leverage teams for travel at scale.</h1>
-    <p class="resume-hero__summary">I currently lead Omio’s Asia expansion and global Ferries engineering from Bengaluru. Before that I built products and teams at PayU Finance, MPL, Hotstar, InCred, 1mg, Oracle, and Trimble.</p>
+    <h1>Engineering leader building high-leverage teams, global products, and AI-native delivery systems.</h1>
+    <p class="resume-hero__summary">I lead Omio’s Bengaluru Engineering Center, Asia expansion, and global Ferries engineering. Across travel, fintech, media, gaming, and healthcare, I have built teams and platforms used at meaningful scale.</p>
   </div>
   <div class="resume-hero__meta">
     <p><strong>Current role</strong><span>Senior Engineering Manager, Omio</span></p>
-    <p><strong>Focus</strong><span>Leadership, engineering for scale, AI-native teams</span></p>
+    <p><strong>Focus</strong><span>Global expansion, engineering leadership, AI-native delivery</span></p>
     <p><strong>Location</strong><span>Bengaluru</span></p>
-    <p><strong>Open to</strong><span>Mentoring, conversations, thoughtful ideas</span></p>
+    <p><strong>Impact</strong><span>0 to 30 org · 10+ Asia markets · €25M+ revenue enabled</span></p>
   </div>
 </div>
 
 <div class="resume-shell" markdown="1">
 
-<div class="resume-notice" markdown="0">
-  I’m not actively looking right now, but I’m always happy to <a href="https://www.linkedin.com/in/reactivedroid/">connect</a>.
-</div>
-
 <div class="resume-summary-grid" markdown="0">
   <article class="resume-panel">
     <h3>Current Scope</h3>
     <ul>
-      <li>Leading engineering for Omio’s Asia expansion.</li>
-      <li>Owning the global Ferries business across provider integrations and booking flows.</li>
-      <li>Building AI-native workflows around specs, review automation, and guardrails that are useful in practice.</li>
+      <li>Leading Asia expansion across 10+ countries, from market needs to reliable multimodal journeys.</li>
+      <li>Owning global Ferries engineering across provider integrations, search, booking, and ticketing.</li>
+      <li>Building AI-native workflows that shorten delivery cycles without compromising engineering judgment.</li>
     </ul>
   </article>
   <article class="resume-panel">
@@ -55,6 +51,7 @@ classes: wide no-masthead resume-page
     <ul>
       <li>Google Developer Expert in Firebase.</li>
       <li>Mentor at Scaler.</li>
+      <li>Mentor for Google Play Accelerator for Startups in India.</li>
       <li>CKA and CKAD certified.</li>
     </ul>
   </article>
@@ -74,28 +71,31 @@ classes: wide no-masthead resume-page
 ### Senior Engineering Manager, [Omio](https://www.omio.com/)
 **Bengaluru** · *Jan 2025 - Present*
 
-- Leading Omio’s push into Asia with multi-modal travel products including [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me) and [Travel Planner](https://www.omio.com/app/travel-planner/japan).
-- Owning the Ferries engineering surface end to end: provider integrations, search, booking, and ticketing.
-- Built the India team from scratch, including hiring loops, career growth, and on-call habits.
-- Introducing AI-native ways of working through specs, automated reviews, n8n pipelines, and LangFuse tracing.
+- Built and scaled Omio’s Bengaluru Engineering Center from 0 to 30 engineers, with 0% attrition across a core 15-person team.
+- Led Asia expansion across 10+ countries, enabling €25M+ in revenue and 100K+ bookings through multimodal journeys in India, Southeast Asia, and Japan.
+- Launched the AI-powered Japan Travel Planner, Japan Rail Pass, Delayed Booking, and the engineering blog while aligning distributed product, commercial, operations, and technology teams.
+- Own the global Ferries charter, scaling it to 30K+ monthly bookings and €400M+ annual GBV across providers, search, booking, and ticketing.
+- Established AI-native delivery practices with 50+ n8n automations and partnered with AI Labs to cut provider-integration lead time by 50%.
+- Led 25+ backend services and reduced Asia booking failures and sold-out rates from 5% to 1%, including agentic booking and cancellation for providers without APIs.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Director of Engineering, [PayU Finance (LazyPay & PaySense)](https://payufin.in/)
-**Bengaluru** · *Apr 2021 - Dec 2024*
+**Bengaluru** · *Feb 2022 - Dec 2024*
 
-- Led a 30+ person engineering org across backend, Android, iOS, and web, shipping BillPay, Xpress Loans, VideoKYC, 2FA, and a FinTech marketplace.
-- Reworked backend architecture, cut infra cost by 60%, and introduced Reactor, Jetpack Compose, SwiftUI, and micro-frontends.
-- Modernized delivery with zero-touch deployments, experimentation, controlled rollouts, and automated CI/CD.
+- Built and led a 30+ engineer organisation across backend, Android, iOS, and web, including three engineering managers/senior managers and architects.
+- Shipped BillPay, Xpress Loans, VideoKYC, 2FA, and a FinTech marketplace spanning credit cards and insurance.
+- Re-architected backend APIs to reduce infrastructure cost by 60% while improving scalability, availability, and developer productivity.
+- Modernized LazyPay and PaySense with configuration management, zero-touch deployments, dynamic experiences, experimentation, and controlled rollouts.
+- Championed DevEx and automated CI/CD across repositories, driving a 40% developer-productivity uplift plus a further 30% DevEx improvement.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Senior Engineering Manager, [MPL](https://www.mpl.live/)
 **Bengaluru** · *Apr 2021 - Jan 2022*
 
-- Led a 20-engineer team focused on product expansion toward 100M users.
-- Rebuilt the mobile app architecture and developed in-house libraries designed for scale.
-- Delivered ForgeRock-based SSO for 85M+ customers along with network and performance improvements.
+- Led a 20-member team toward product expansion for the next 100M users, driving architecture, platform, and client-performance work.
+- Built in-house libraries and frameworks, and led complex SSO, network architecture, and mobile-performance initiatives.
 </div>
 
 <div class="resume-entry" markdown="1">
@@ -111,9 +111,8 @@ classes: wide no-masthead resume-page
 ### Senior Software Engineer, [Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
 **Bengaluru** · *Oct 2017 - Jul 2019*
 
-- Rebuilt the Android app from scratch for 300M+ users using MVVM, RxJava 2, and Dagger 2.
-- Architected a networking SDK capable of switching API backends without an app release.
-- Shipped Picture-in-Picture, Dark Mode, content caching, App Bundle, and live cricket social features.
+- Re-architected the Android app for 300M+ active users using MVVM, RxJava 2, and Dagger 2.
+- Built switchable networking, caching, Picture-in-Picture, Dark Mode, App Bundle, and live-cricket social capabilities for high-scale consumer experiences.
 - Recognized as Best Performer (Future Leader) for 2018.
 </div>
 
@@ -121,22 +120,21 @@ classes: wide no-masthead resume-page
 ### Senior Software Engineer, [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
 **Gurgaon** · *May 2016 - Sep 2017*
 
-- Redesigned the app using Clean Architecture, MVP, and RxJava.
-- Revamped Pill Reminder and Labs modules while reducing memory and network footprint by 30%.
+- Redesigned the mobile app using Clean Architecture, MVP, and RxJava, cutting memory and network footprint by 30%.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Applications Engineer, [Oracle](https://www.oracle.com/)
 **Hyderabad** · *May 2015 - Mar 2016*
 
-- Built data transfer tooling for Oracle Fusion Applications on the HCM Data Loader team.
+- Worked on Oracle Fusion HCM Data Loader, improving product stability by resolving critical customer issues.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Software Engineer, [Trimble Navigation](https://www.trimble.com/)
 **Chennai** · *Jun 2013 - Apr 2015*
 
-- Developed Android apps for laser surveying and GNSS receiver communication.
+- Built Android surveying workflows including QuickMark Layout, Job Manager, and Trimble GNSS receiver applications.
 </div>
 
 ## Education
@@ -154,6 +152,7 @@ classes: wide no-masthead resume-page
 - **[Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)**
 - Mentor at **[Scaler](https://www.scaler.com/)**
 - **[Author in Google's Dev Library](https://devlibrary.withgoogle.com/authors/reactivedroid)**
+- Mentor for **Google Play Accelerator for Startups in India**
 </div>
 
 </div>

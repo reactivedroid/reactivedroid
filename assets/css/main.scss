@@ -62,7 +62,7 @@
 }
 
 /* Generic direct-child divs only */
-.page__content > div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer):not(.tech-badges):not(.resume-notice) {
+.page__content > div:not(.feature__wrapper):not(.feature__item):not(.vibe-footer):not(.tech-badges) {
   margin-bottom: 0.6em;
 }
 
@@ -528,8 +528,7 @@
 }
 
 .resume-entry,
-.resume-panel,
-.resume-notice {
+.resume-panel {
   line-height: 1.72;
 }
 
@@ -540,26 +539,6 @@
 .resume-panel ul:last-child,
 .resume-entry ul:last-child {
   margin-bottom: 0;
-}
-
-.resume-notice {
-  text-align: left;
-  padding: 1rem 1.15rem;
-  margin: 0.25rem 0 1.35rem;
-  border-radius: 16px;
-  font-size: 0.96rem;
-  font-weight: 500;
-  background: rgba(15, 23, 42, 0.44);
-  border: 1px solid rgba(148, 163, 184, 0.12);
-  color: #cbd5e1;
-}
-
-.resume-notice a {
-  color: #a5b4fc;
-}
-
-.resume-notice a:hover {
-  color: #c7d2fe;
 }
 
 /* -- Light mode overrides for new cards -- */
@@ -628,16 +607,6 @@
 .light-mode .resume-hero__meta p {
   background: rgba(255, 255, 255, 0.78);
   border-color: rgba(148, 163, 184, 0.18);
-}
-
-.light-mode .resume-notice {
-  background: rgba(255, 255, 255, 0.72);
-  border-color: rgba(148, 163, 184, 0.18);
-  color: #334155;
-}
-
-.light-mode .resume-notice a {
-  color: #4f46e5;
 }
 
 .light-mode .highlight-list,
@@ -839,10 +808,6 @@
     line-height: 1.4;
   }
 
-  .resume-notice {
-    margin: 0.1rem 0 1rem;
-    padding: 0.9rem 1rem;
-  }
 }
 
 @media (min-width: 22em) and (max-width: 48em) {
