@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Ashwini Kumar
 
-### Engineering Leader · Scaling Travel Tech Across Asia · Building AI-Native Teams
+### Engineering Leader · Organisation Builder · Global Expansion · AI-Native Engineering
 
 <a href="https://www.linkedin.com/in/reactivedroid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/reactivedroid"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
@@ -16,20 +16,33 @@
 
 ---
 
-## 🚀 What I'm Building Now at Omio
+I build high-performing engineering organisations and global consumer products—from Bharat-scale platforms to new markets. Today, I lead Omio's Bengaluru Engineering Center, Asia expansion, and global Ferries engineering.
 
-- **🌏 Asia Expansion** - Scaling Omio's presence in Asia, starting with **Japan** and **South East Asia**. Multi-modal travel options across trains, buses, flights, and ferries, plus AI-powered products like [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me), [Japan Travel Planner](https://www.omio.com/app/travel-planner/japan), and more. Backed by a team I'm building in India.
-- **⛴️ Ferries** - Own the engineering for Omio's **global Ferries business**, provider integrations, booking flows, everything from search to ticket.
+<p align="center">
+  <strong>0 → 30</strong> engineers built at Omio &nbsp;·&nbsp;
+  <strong>10+</strong> Asia markets &nbsp;·&nbsp;
+  <strong>€25M+</strong> Asia revenue enabled &nbsp;·&nbsp;
+  <strong>300M+</strong> users supported
+</p>
+
+---
+
+## 🚀 What I'm Building at Omio
+
+- **🌏 Asia Expansion** - Leading expansion across **10+ countries** in India, Southeast Asia, and Japan. The work connects product, commercial, operations, and technology to deliver coherent multimodal journeys—and has enabled **€25M+ in revenue** and **100K+ bookings**.
+- **⛴️ Global Ferries** - Owning engineering across provider integrations, search, booking, and ticketing for a business at **30K+ monthly bookings** and **€400M+ annual GBV**.
+- **🏗️ Organisation Building** - Built and scaled Omio's Bengaluru Engineering Center from **0 to 30 engineers**, maintaining 0% attrition across a core 15-person team.
+- **✨ Product Delivery** - Led launches including the [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me), AI-powered [Japan Travel Planner](https://www.omio.com/app/travel-planner/japan), Delayed Booking, and the engineering blog.
 
 ---
 
 ## 🧭 Engineering Leadership & Strategy
 
-**Senior Engineering Manager at [Omio](https://www.omio.com/).** I take loosely defined business goals, figure out the technical path, and build the team that delivers.
+**Senior Engineering Manager at [Omio](https://www.omio.com/).** I turn market and product bets into technical strategy, align distributed stakeholders, and build the teams that deliver measurable outcomes.
 
-- **📈 Strategy & Direction** - I own the technical roadmap and architectural decisions for systems serving millions of travelers. Half the job is figuring out what *not* to build.
-- **👥 People & Teams** - Built an engineering team in India from scratch. Hiring, mentoring, career frameworks, on-call rotations, the kind of environment where engineers want to stay.
-- **⚙️ Engineering Culture** - Spec-driven development, strong code reviews, observability baked in, rollback-first deployments. The team ships fast because they trust the process.
+- **📈 Strategy & Direction** - I frame ambiguous goals as clear bets, explicit trade-offs, and technical roadmaps for systems serving millions of travelers.
+- **👥 People & Teams** - I develop engineering managers, senior engineers, and leadership bench strength while creating high-ownership teams that can make strong decisions independently.
+- **⚙️ Execution with Guardrails** - Strong specs, thoughtful review, observability, and safe rollback paths help teams ship quickly without trading away reliability.
 
 ---
 
@@ -37,12 +50,11 @@
 
 I'm working on making my team genuinely AI-native. That means changing how we build software, not just which tools we use.
 
-- AI copilots and agents are part of daily workflows, so engineers spend their time on problems that need judgment
-- Automated first-pass code reviews catch bugs, security gaps, and style issues before a human opens the PR
-- Every feature starts with a `spec.md` (goals, non-goals, acceptance criteria, rollback plan) that feeds into both implementation and AI-assisted testing
-- **n8n** pipelines and agentic workflows handle the ops toil and reporting that used to eat up engineering time
-- Working toward one-touch deploys where shipping to production is a single, safe action
-- Tracking LLM-powered features with **LangFuse** so we have real data on what's working
+- AI copilots and agents are part of daily workflows, reserving people-time for problems that need judgment.
+- **50+ n8n automations** and agentic workflows reduce operations toil and reporting overhead.
+- Specs, automated first-pass review, and AI-assisted testing keep delivery grounded in clear goals, non-goals, and rollback plans.
+- Partnering with AI Labs helped cut provider-integration lead time by **50%**, from two months to one.
+- **LangFuse** tracing gives LLM-powered features the observability they need to earn trust.
 
 > AI makes good engineers faster. My focus is on the guardrails and tooling that let a small team do more than its size suggests.
 
@@ -50,10 +62,11 @@ I'm working on making my team genuinely AI-native. That means changing how we bu
 
 ## 👨‍💻 About Me
 
-Built and scaled products across travel, fintech, media, gaming, and healthcare. Working across those domains taught me how to match architecture, team design, and execution to the shape of the business problem. Before Omio, I led engineering at **[PayU Finance](https://payufin.in/)**.
+Built and scaled products across travel, fintech, media, gaming, and healthcare. Before Omio, I built and led a **30+ engineer organisation** at **[PayU Finance](https://payufin.in/)**, where we reduced infrastructure costs by **60%**, shipped major lending products, and modernised delivery across backend, web, and mobile.
 
 - 🏅 [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)
 - 🎓 Mentor at [Scaler](https://www.scaler.com/)
+- 🚀 Mentor for Google Play Accelerator for Startups in India
 - 🏛️ [NIT Tiruchirappalli](https://www.nitt.edu/) alumnus, with stints at **Hotstar, MPL, PayU Finance, InCred, 1mg, Trimble and Oracle**.
 - 🎲 Off the clock: board games (Monopoly, Game of Life) and keeping up with emerging tech.
 
