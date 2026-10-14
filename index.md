@@ -36,10 +36,10 @@ classes: wide no-masthead landing-page
 I build engineering organisations and consumer products that can take on real scale: new markets, complex partner ecosystems, and systems customers trust when the journey matters. My work spans travel, fintech, media, gaming, and healthcare—from Bharat-scale platforms to global expansion.
 
 <div class="signal-pills" markdown="0">
-  <span class="signal-pill">0 → 30 engineers at Omio Bengaluru</span>
-  <span class="signal-pill">10+ countries in Asia expansion</span>
-  <span class="signal-pill">€25M+ Asia revenue enabled</span>
-  <span class="signal-pill">30K+ monthly Ferries bookings</span>
+  <span class="signal-pill">Building teams in Bengaluru</span>
+  <span class="signal-pill">Asia expansion</span>
+  <span class="signal-pill">Multimodal travel across Asia</span>
+  <span class="signal-pill">Global Ferries engineering</span>
   <span class="signal-pill">Omio · PayU · Hotstar · MPL</span>
   <span class="signal-pill">Google Developer Expert in Firebase</span>
   <span class="signal-pill">CKA + CKAD</span>
@@ -51,18 +51,18 @@ I build engineering organisations and consumer products that can take on real sc
 <div class="story-grid" markdown="0">
   <article class="story-card">
     <p class="story-card__eyebrow">Asia Expansion</p>
-    <h3>Leading expansion across 10+ countries without turning every local requirement into a one-off decision.</h3>
+    <h3>Leading Asia expansion without turning every local requirement into a one-off decision.</h3>
     <p>Across India, Southeast Asia, and Japan, I align product, commercial, operations, and technology around journeys that remain coherent as the market footprint grows.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">Global Ferries</p>
-    <h3>Scaling the systems behind 30K+ monthly global Ferries bookings.</h3>
-    <p>I own the provider integrations, search, booking, ticketing, and reliability work behind a €400M+ annual-GBV business.</p>
+    <h3>Scaling the systems behind a global Ferries business.</h3>
+    <p>I own the provider integrations, search, booking, ticketing, and reliability work that make complex travel journeys dependable.</p>
   </article>
   <article class="story-card">
     <p class="story-card__eyebrow">AI-Native Delivery</p>
     <h3>Making AI-native delivery useful in the messy parts of engineering.</h3>
-    <p>With 50+ n8n automations and agentic workflows, I focus on removing drag and cutting provider-integration lead time—without outsourcing judgment.</p>
+    <p>With automation and agentic workflows, I focus on removing drag from provider integrations—without outsourcing judgment.</p>
   </article>
 </div>
 
@@ -88,17 +88,17 @@ I build engineering organisations and consumer products that can take on real sc
 <div class="highlight-list" markdown="0">
   <article class="highlight-item">
     <p class="highlight-item__meta">Omio</p>
-    <h3>0 → 30 engineers, 10+ markets, €25M+ Asia revenue enabled</h3>
+    <h3>Building an engineering organisation for Asia expansion</h3>
     <p>Built the Bengaluru Engineering Center and led launches including the AI-powered Japan Travel Planner, Japan Rail Pass, and Delayed Booking.</p>
   </article>
   <article class="highlight-item">
     <p class="highlight-item__meta">PayU Finance</p>
-    <h3>Built and led a 30+ person organisation across backend, web, and mobile</h3>
-    <p>Launched new lending products, reduced infrastructure costs by 60%, and drove measurable DevEx gains across the stack.</p>
+    <h3>Built and led a cross-functional engineering organisation</h3>
+    <p>Launched new lending products and modernised delivery across backend, web, and mobile.</p>
   </article>
   <article class="highlight-item">
     <p class="highlight-item__meta">Hotstar</p>
-    <h3>Re-architected Android for 300M+ active users</h3>
+    <h3>Re-architected Android for a high-scale consumer product</h3>
     <p>Built switchable networking, caching, and live-cricket capabilities for a high-scale consumer product.</p>
   </article>
   <article class="highlight-item">

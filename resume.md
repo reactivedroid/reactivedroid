@@ -31,7 +31,7 @@ classes: wide no-masthead resume-page
     <p><strong>Current role</strong><span>Senior Engineering Manager, Omio</span></p>
     <p><strong>Focus</strong><span>Global expansion, engineering leadership, AI-native delivery</span></p>
     <p><strong>Location</strong><span>Bengaluru</span></p>
-    <p><strong>Impact</strong><span>0 to 30 org · 10+ Asia markets · €25M+ revenue enabled</span></p>
+    <p><strong>Impact</strong><span>Engineering leadership · Asia expansion · Global travel systems</span></p>
   </div>
 </div>
 
@@ -41,9 +41,9 @@ classes: wide no-masthead resume-page
   <article class="resume-panel">
     <h3>Current Scope</h3>
     <ul>
-      <li>Leading Asia expansion across 10+ countries, from market needs to reliable multimodal journeys.</li>
-      <li>Owning global Ferries engineering across provider integrations, search, booking, and ticketing.</li>
-      <li>Building AI-native workflows that shorten delivery cycles without compromising engineering judgment.</li>
+      <li>Leading Asia expansion from market needs to reliable multimodal journeys.</li>
+      <li>Owning global Ferries engineering end to end.</li>
+      <li>Building AI-native delivery practices grounded in engineering judgment.</li>
     </ul>
   </article>
   <article class="resume-panel">
@@ -71,48 +71,47 @@ classes: wide no-masthead resume-page
 ### Senior Engineering Manager, [Omio](https://www.omio.com/)
 **Bengaluru** · *Jan 2025 - Present*
 
-- Built and scaled Omio’s Bengaluru Engineering Center from 0 to 30 engineers, with 0% attrition across a core 15-person team.
-- Led Asia expansion across 10+ countries, enabling €25M+ in revenue and 100K+ bookings through multimodal journeys in India, Southeast Asia, and Japan.
+- Built and scaled Omio’s Bengaluru Engineering Center, with hiring, career growth, and operating habits designed for durable teams.
+- Led Asia expansion, delivering multimodal journeys in India, Southeast Asia, and Japan.
 - Launched the AI-powered Japan Travel Planner, Japan Rail Pass, Delayed Booking, and the engineering blog while aligning distributed product, commercial, operations, and technology teams.
-- Own the global Ferries charter, scaling it to 30K+ monthly bookings and €400M+ annual GBV across providers, search, booking, and ticketing.
-- Established AI-native delivery practices with 50+ n8n automations and partnered with AI Labs to cut provider-integration lead time by 50%.
-- Led 25+ backend services and reduced Asia booking failures and sold-out rates from 5% to 1%, including agentic booking and cancellation for providers without APIs.
+- Own the global Ferries charter across its engineering surface.
+- Established AI-native delivery practices to make engineering work more effective and repeatable.
+- Led systems that support Asia travel journeys.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Director of Engineering, [PayU Finance (LazyPay & PaySense)](https://payufin.in/)
 **Bengaluru** · *Feb 2022 - Dec 2024*
 
-- Built and led a 30+ engineer organisation across backend, Android, iOS, and web, including three engineering managers/senior managers and architects.
+- Built and led an engineering organisation across backend, Android, iOS, and web.
 - Shipped BillPay, Xpress Loans, VideoKYC, 2FA, and a FinTech marketplace spanning credit cards and insurance.
-- Re-architected backend APIs to reduce infrastructure cost by 60% while improving scalability, availability, and developer productivity.
+- Re-architected backend APIs to improve scalability, availability, and developer productivity.
 - Modernized LazyPay and PaySense with configuration management, zero-touch deployments, dynamic experiences, experimentation, and controlled rollouts.
-- Championed DevEx and automated CI/CD across repositories, driving a 40% developer-productivity uplift plus a further 30% DevEx improvement.
+- Championed developer experience and modern delivery practices across repositories.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Senior Engineering Manager, [MPL](https://www.mpl.live/)
 **Bengaluru** · *Apr 2021 - Jan 2022*
 
-- Led a 20-member team toward product expansion for the next 100M users, driving architecture, platform, and client-performance work.
-- Built in-house libraries and frameworks, and led complex SSO, network architecture, and mobile-performance initiatives.
+- Led a team through product expansion, architecture, platform, and client-performance work.
+- Built reusable libraries and frameworks, and led SSO, network architecture, and mobile-performance initiatives.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### AVP Engineering, [InCred Finance](https://play.google.com/store/apps/details?id=com.incred.customer)
 **Bengaluru** · *Jul 2019 - Mar 2021*
 
-- Rewrote the Android app in Kotlin with MVVM, Jetpack, and Dagger 2 while growing test coverage from 0 to 80%.
-- Automated CI/CD with Fastlane and GitHub Actions, and designed backend-for-frontend APIs for clean client separation.
-- Improved app ratings from 2.5 to 4.2+ stars, and was recognized with Tech Star of the Month and a top appraisal in 2020-21.
+- Modernised the Android app and delivery practices, including test automation and backend-for-frontend APIs.
+- Recognized with Tech Star of the Month for technical execution and team impact.
 </div>
 
 <div class="resume-entry" markdown="1">
 ### Senior Software Engineer, [Hotstar](https://play.google.com/store/apps/details?id=in.startv.hotstar)
 **Bengaluru** · *Oct 2017 - Jul 2019*
 
-- Re-architected the Android app for 300M+ active users using MVVM, RxJava 2, and Dagger 2.
-- Built switchable networking, caching, Picture-in-Picture, Dark Mode, App Bundle, and live-cricket social capabilities for high-scale consumer experiences.
+- Re-architected the Android app for a high-scale consumer product.
+- Built platform capabilities including switchable networking, caching, and live experiences.
 - Recognized as Best Performer (Future Leader) for 2018.
 </div>
 
@@ -120,7 +119,7 @@ classes: wide no-masthead resume-page
 ### Senior Software Engineer, [Tata 1mg](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus)
 **Gurgaon** · *May 2016 - Sep 2017*
 
-- Redesigned the mobile app using Clean Architecture, MVP, and RxJava, cutting memory and network footprint by 30%.
+- Redesigned the mobile app with a focus on a more efficient and maintainable experience.
 </div>
 
 <div class="resume-entry" markdown="1">

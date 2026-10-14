@@ -18,20 +18,11 @@
 
 I build high-performing engineering organisations and global consumer products—from Bharat-scale platforms to new markets. Today, I lead Omio's Bengaluru Engineering Center, Asia expansion, and global Ferries engineering.
 
-<p align="center">
-  <strong>0 → 30</strong> engineers built at Omio &nbsp;·&nbsp;
-  <strong>10+</strong> Asia markets &nbsp;·&nbsp;
-  <strong>€25M+</strong> Asia revenue enabled &nbsp;·&nbsp;
-  <strong>300M+</strong> users supported
-</p>
-
----
-
 ## 🚀 What I'm Building at Omio
 
-- **🌏 Asia Expansion** - Leading expansion across **10+ countries** in India, Southeast Asia, and Japan. The work connects product, commercial, operations, and technology to deliver coherent multimodal journeys—and has enabled **€25M+ in revenue** and **100K+ bookings**.
-- **⛴️ Global Ferries** - Owning engineering across provider integrations, search, booking, and ticketing for a business at **30K+ monthly bookings** and **€400M+ annual GBV**.
-- **🏗️ Organisation Building** - Built and scaled Omio's Bengaluru Engineering Center from **0 to 30 engineers**, maintaining 0% attrition across a core 15-person team.
+- **🌏 Asia Expansion** - Leading expansion in India, Southeast Asia, and Japan. The work connects product, commercial, operations, and technology to deliver coherent multimodal journeys.
+- **⛴️ Global Ferries** - Owning engineering across provider integrations, search, booking, ticketing, and reliability for a global Ferries business.
+- **🏗️ Organisation Building** - Built and scaled Omio's Bengaluru Engineering Center, with hiring, career growth, and operating habits designed for durable teams.
 - **✨ Product Delivery** - Led launches including the [Japan Rail Pass](https://www.omio.com/trains/japan-rail-pass-ot5me), AI-powered [Japan Travel Planner](https://www.omio.com/app/travel-planner/japan), Delayed Booking, and the engineering blog.
 
 ---
@@ -51,10 +42,9 @@ I build high-performing engineering organisations and global consumer products�
 I'm working on making my team genuinely AI-native. That means changing how we build software, not just which tools we use.
 
 - AI copilots and agents are part of daily workflows, reserving people-time for problems that need judgment.
-- **50+ n8n automations** and agentic workflows reduce operations toil and reporting overhead.
-- Specs, automated first-pass review, and AI-assisted testing keep delivery grounded in clear goals, non-goals, and rollback plans.
-- Partnering with AI Labs helped cut provider-integration lead time by **50%**, from two months to one.
-- **LangFuse** tracing gives LLM-powered features the observability they need to earn trust.
+- AI-assisted workflows reduce administrative overhead and reserve people-time for problems that need judgment.
+- Clear specifications, thoughtful review, and observability help delivery stay grounded and reliable.
+- I focus on using AI to make engineering work more effective and repeatable.
 
 > AI makes good engineers faster. My focus is on the guardrails and tooling that let a small team do more than its size suggests.
 
@@ -62,7 +52,7 @@ I'm working on making my team genuinely AI-native. That means changing how we bu
 
 ## 👨‍💻 About Me
 
-Built and scaled products across travel, fintech, media, gaming, and healthcare. Before Omio, I built and led a **30+ engineer organisation** at **[PayU Finance](https://payufin.in/)**, where we reduced infrastructure costs by **60%**, shipped major lending products, and modernised delivery across backend, web, and mobile.
+Built and scaled products across travel, fintech, media, gaming, and healthcare. Before Omio, I built and led an engineering organisation at **[PayU Finance](https://payufin.in/)**, shipping lending products and modernising delivery across backend, web, and mobile.
 
 - 🏅 [Google Developer Expert in Firebase](https://developers.google.com/community/experts/directory?text=Ashwini%20Kumar)
 - 🎓 Mentor at [Scaler](https://www.scaler.com/)
